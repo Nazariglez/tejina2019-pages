@@ -1,0 +1,103 @@
+{"frames": {
+
+"0/0_Back.png":
+{
+	"frame": {"x":0,"y":0,"w":672,"h":1024},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":459,"y":575,"w":672,"h":1024},
+	"sourceSize": {"w":1200,"h":1600}
+},
+"3-LIMON/CAM_ABAJO_A_2.png":
+{
+	"frame": {"x":364,"y":1024,"w":970,"h":645},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":737,"w":970,"h":645},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-LIMON/CAM_BESTIA.png":
+{
+	"frame": {"x":672,"y":0,"w":970,"h":645},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":737,"w":970,"h":645},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"4-MANO-FRONT/4-MANO.png":
+{
+	"frame": {"x":1009,"y":970,"w":300,"h":286},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":835,"w":300,"h":286},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"4-MANO-FRONT/4-Timple_3.png":
+{
+	"frame": {"x":1317,"y":0,"w":374,"h":716},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":766,"w":374,"h":716},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-guajiro.png":
+{
+	"frame": {"x":1317,"y":862,"w":665,"h":486},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":115,"w":665,"h":486},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-guajiro.png":
+{
+	"frame": {"x":1317,"y":374,"w":665,"h":488},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":165,"w":665,"h":488},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"M_B1.png":
+{
+	"frame": {"x":1009,"y":1523,"w":467,"h":525},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":38,"w":467,"h":525},
+	"sourceSize": {"w":600,"h":600}
+},
+"Millo_1.png":
+{
+	"frame": {"x":1009,"y":1256,"w":267,"h":286},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":161,"y":105,"w":267,"h":286},
+	"sourceSize": {"w":600,"h":496}
+},
+"R-x20.png":
+{
+	"frame": {"x":1476,"y":1348,"w":654,"h":571},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":290,"y":145,"w":654,"h":571},
+	"sourceSize": {"w":1200,"h":800}
+},
+"sombra_multiplicar.png":
+{
+	"frame": {"x":0,"y":1024,"w":1008,"h":364},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":96,"y":219,"w":1008,"h":364},
+	"sourceSize": {"w":1200,"h":800}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-5@2x.png",
+	"format": "RGBA8888",
+	"size": {"w":2047,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "images-0@2x.json", "images-1@2x.json", "images-2@2x.json", "images-3@2x.json", "images-4@2x.json", "images-6@2x.json", "images-7@2x.json", "images-8@2x.json", "images-9@2x.json", "images-10@2x.json", "images-11@2x.json", "images-12@2x.json", "images-13@2x.json", "images-14@2x.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:fba24fea3b328fba8a4df2128c631578:3e5c398fbbb120e723f43265606d7e0b:c272883f74de3d4399f508e26d75d4c5$"
+}
+}

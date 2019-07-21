@@ -1,0 +1,112 @@
+{"frames": {
+
+"2-CARA-P/2-P_SEXY.png":
+{
+	"frame": {"x":1796,"y":0,"w":399,"h":209},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":417,"y":497,"w":399,"h":209},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-P/2-P_SMILE.png":
+{
+	"frame": {"x":1796,"y":399,"w":350,"h":209},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":449,"y":501,"w":350,"h":209},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_PICO_B_Descuelgue.png":
+{
+	"frame": {"x":0,"y":0,"w":898,"h":652},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_PICO_V_1.png":
+{
+	"frame": {"x":898,"y":0,"w":898,"h":652},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_PICO_V_2.png":
+{
+	"frame": {"x":0,"y":749,"w":898,"h":652},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_PICO_V_Descuelgue.png":
+{
+	"frame": {"x":652,"y":749,"w":898,"h":652},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_UT.png":
+{
+	"frame": {"x":1304,"y":749,"w":898,"h":652},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"Back.png":
+{
+	"frame": {"x":0,"y":1647,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"Check.png":
+{
+	"frame": {"x":800,"y":1647,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"CLOSE.png":
+{
+	"frame": {"x":400,"y":1647,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"ESTILO.png":
+{
+	"frame": {"x":1200,"y":1647,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"MENU.png":
+{
+	"frame": {"x":1600,"y":1647,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+}},
+"animations": {
+	"3-PERA/CAM_PICO_V": ["3-PERA/CAM_PICO_V_1.png","3-PERA/CAM_PICO_V_2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-9@2x.png",
+	"format": "RGBA8888",
+	"size": {"w":2005,"h":2047},
+	"scale": "1",
+	"related_multi_packs": [ "images-0@2x.json", "images-1@2x.json", "images-2@2x.json", "images-3@2x.json", "images-4@2x.json", "images-5@2x.json", "images-6@2x.json", "images-7@2x.json", "images-8@2x.json", "images-10@2x.json", "images-11@2x.json", "images-12@2x.json", "images-13@2x.json", "images-14@2x.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:fba24fea3b328fba8a4df2128c631578:3e5c398fbbb120e723f43265606d7e0b:c272883f74de3d4399f508e26d75d4c5$"
+}
+}

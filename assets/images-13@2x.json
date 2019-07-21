@@ -1,0 +1,160 @@
+{"frames": {
+
+"5-SOMB_LIMON/5-especial_limon.png":
+{
+	"frame": {"x":464,"y":0,"w":546,"h":398},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":130,"w":546,"h":398},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-gorra.png":
+{
+	"frame": {"x":464,"y":398,"w":546,"h":398},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":199,"y":130,"w":546,"h":398},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-somb_b.png":
+{
+	"frame": {"x":1092,"y":1483,"w":551,"h":361},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-somb_br.png":
+{
+	"frame": {"x":1223,"y":929,"w":551,"h":361},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-somb_g.png":
+{
+	"frame": {"x":1239,"y":377,"w":551,"h":361},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-somb_w.png":
+{
+	"frame": {"x":1584,"y":928,"w":551,"h":361},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PERA/5-gorra.png":
+{
+	"frame": {"x":1600,"y":0,"w":472,"h":344},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":52,"w":472,"h":344},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-especial_pina.png":
+{
+	"frame": {"x":464,"y":944,"w":546,"h":398},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":181,"w":546,"h":398},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-gorra.png":
+{
+	"frame": {"x":546,"y":1490,"w":546,"h":398},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":181,"w":546,"h":398},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_g.png":
+{
+	"frame": {"x":862,"y":398,"w":531,"h":377},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":220,"w":531,"h":377},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_w.png":
+{
+	"frame": {"x":1010,"y":0,"w":531,"h":377},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":220,"w":531,"h":377},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"C_DesPI.png":
+{
+	"frame": {"x":862,"y":929,"w":361,"h":554},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":23,"w":361,"h":554},
+	"sourceSize": {"w":600,"h":600}
+},
+"ICON_Disfraz.png":
+{
+	"frame": {"x":1643,"y":1479,"w":400,"h":318},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":41,"w":400,"h":318},
+	"sourceSize": {"w":400,"h":400}
+},
+"M_L1.png":
+{
+	"frame": {"x":0,"y":0,"w":464,"h":532},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":34,"w":464,"h":532},
+	"sourceSize": {"w":600,"h":600}
+},
+"M_L2.png":
+{
+	"frame": {"x":0,"y":532,"w":464,"h":532},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":34,"w":464,"h":532},
+	"sourceSize": {"w":600,"h":600}
+},
+"M_L3.png":
+{
+	"frame": {"x":0,"y":1064,"w":464,"h":532},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":34,"w":464,"h":532},
+	"sourceSize": {"w":600,"h":600}
+},
+"TIENDA.png":
+{
+	"frame": {"x":1600,"y":472,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"VI_PI.png":
+{
+	"frame": {"x":0,"y":1596,"w":546,"h":326},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":134,"w":546,"h":326},
+	"sourceSize": {"w":600,"h":600}
+}},
+"animations": {
+	"M_L": ["M_L1.png","M_L2.png","M_L3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-13@2x.png",
+	"format": "RGBA8888",
+	"size": {"w":2000,"h":1922},
+	"scale": "1",
+	"related_multi_packs": [ "images-0@2x.json", "images-1@2x.json", "images-2@2x.json", "images-3@2x.json", "images-4@2x.json", "images-5@2x.json", "images-6@2x.json", "images-7@2x.json", "images-8@2x.json", "images-9@2x.json", "images-10@2x.json", "images-11@2x.json", "images-12@2x.json", "images-14@2x.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:fba24fea3b328fba8a4df2128c631578:3e5c398fbbb120e723f43265606d7e0b:c272883f74de3d4399f508e26d75d4c5$"
+}
+}
