@@ -1,0 +1,152 @@
+{"frames": {
+
+"4-MANO-FRONT/4-Bandu_2.png":
+{
+	"frame": {"x":470,"y":614,"w":399,"h":631},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":786,"w":399,"h":631},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"4-MANO-FRONT/4-Bandu_3.png":
+{
+	"frame": {"x":869,"y":568,"w":399,"h":631},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":786,"w":399,"h":631},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PERA/5-gorra.png":
+{
+	"frame": {"x":470,"y":1245,"w":472,"h":344},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":283,"y":52,"w":472,"h":344},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_br.png":
+{
+	"frame": {"x":1220,"y":1199,"w":531,"h":377},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":220,"w":531,"h":377},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_g.png":
+{
+	"frame": {"x":1597,"y":1126,"w":531,"h":377},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":220,"w":531,"h":377},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"ICON_FAIL.png":
+{
+	"frame": {"x":1220,"y":1730,"w":289,"h":296},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":2,"w":289,"h":296},
+	"sourceSize": {"w":300,"h":300}
+},
+"ICON_OK.png":
+{
+	"frame": {"x":1516,"y":1730,"w":296,"h":270},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":15,"w":296,"h":270},
+	"sourceSize": {"w":300,"h":300}
+},
+"PIEZAS_TIENDA/M_B2.png":
+{
+	"frame": {"x":1522,"y":0,"w":467,"h":525},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":38,"w":467,"h":525},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_Gac.png":
+{
+	"frame": {"x":0,"y":614,"w":470,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":16,"w":470,"h":568},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_Gfa.png":
+{
+	"frame": {"x":582,"y":0,"w":470,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":16,"w":470,"h":568},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_Gpi.png":
+{
+	"frame": {"x":0,"y":1182,"w":470,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":16,"w":470,"h":568},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_Gro.png":
+{
+	"frame": {"x":1052,"y":0,"w":470,"h":568},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":65,"y":16,"w":470,"h":568},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/R_LI.png":
+{
+	"frame": {"x":1674,"y":525,"w":522,"h":345},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":117,"w":522,"h":345},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/SP_PE.png":
+{
+	"frame": {"x":1268,"y":568,"w":558,"h":406},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":85,"w":558,"h":406},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/SP_PI.png":
+{
+	"frame": {"x":814,"y":1245,"w":558,"h":406},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":85,"w":558,"h":406},
+	"sourceSize": {"w":600,"h":600}
+},
+"Select-ABAJO.png":
+{
+	"frame": {"x":0,"y":1750,"w":611,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":8,"w":611,"h":290},
+	"sourceSize": {"w":747,"h":306}
+},
+"Select-LIMON.png":
+{
+	"frame": {"x":0,"y":0,"w":582,"h":614},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":148,"y":90,"w":582,"h":614},
+	"sourceSize": {"w":800,"h":800}
+}},
+"animations": {
+	"4-MANO-FRONT/4-Bandu": ["4-MANO-FRONT/4-Bandu_2.png","4-MANO-FRONT/4-Bandu_3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-12.png",
+	"format": "RGBA8888",
+	"size": {"w":2019,"h":2040},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-13.json", "images-14.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:61ad41fc3850bc965dda10946517d9a9:7920c62708cd8e6421dfe981c37256f0:34b587df00d9f9bd8559800fb2e0dd18$"
+}
+}

@@ -1,0 +1,95 @@
+{"frames": {
+
+"3-PERA/CAM_BESTIA.png":
+{
+	"frame": {"x":0,"y":546,"w":898,"h":652},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_ESPESIAL.png":
+{
+	"frame": {"x":652,"y":546,"w":898,"h":652},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_PICO_B_1.png":
+{
+	"frame": {"x":1304,"y":546,"w":898,"h":652},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":749,"w":898,"h":652},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_ARRIBA_N_1.png":
+{
+	"frame": {"x":0,"y":0,"w":947,"h":546},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":805,"w":947,"h":546},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_ARRIBA_N_Descuelgue.png":
+{
+	"frame": {"x":947,"y":0,"w":947,"h":546},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":805,"w":947,"h":546},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_b.png":
+{
+	"frame": {"x":1661,"y":1444,"w":531,"h":377},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":220,"w":531,"h":377},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"Millo_10.png":
+{
+	"frame": {"x":0,"y":1444,"w":600,"h":444},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":26,"w":600,"h":444},
+	"sourceSize": {"w":600,"h":496}
+},
+"PIEZAS_TIENDA/M_T3.png":
+{
+	"frame": {"x":1178,"y":1444,"w":586,"h":483},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":59,"w":586,"h":483},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/S_GUAJI.png":
+{
+	"frame": {"x":813,"y":1444,"w":589,"h":365},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":90,"w":589,"h":365},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/S_W.png":
+{
+	"frame": {"x":444,"y":1444,"w":592,"h":369},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":85,"w":592,"h":369},
+	"sourceSize": {"w":600,"h":600}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-8.png",
+	"format": "RGBA8888",
+	"size": {"w":2038,"h":2044},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:61ad41fc3850bc965dda10946517d9a9:7920c62708cd8e6421dfe981c37256f0:34b587df00d9f9bd8559800fb2e0dd18$"
+}
+}

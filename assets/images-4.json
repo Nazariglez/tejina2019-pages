@@ -1,0 +1,128 @@
+{"frames": {
+
+"2-CARA-P/2-P_WOMAN.png":
+{
+	"frame": {"x":1668,"y":1780,"w":372,"h":193},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":433,"y":502,"w":372,"h":193},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-PL/2-PL_HAPPY.png":
+{
+	"frame": {"x":306,"y":1818,"w":387,"h":224},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":422,"y":622,"w":387,"h":224},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-PL/2-PL_PARTY.png":
+{
+	"frame": {"x":693,"y":1818,"w":280,"h":220},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":481,"y":626,"w":280,"h":220},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-PL/2-PL_WOMAN.png":
+{
+	"frame": {"x":973,"y":1818,"w":409,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":404,"y":622,"w":409,"h":212},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-LIMON/CAM_ABAJO_A_1.png":
+{
+	"frame": {"x":1046,"y":647,"w":970,"h":645},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":737,"w":970,"h":645},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-LIMON/CAM_Boton_1.png":
+{
+	"frame": {"x":1046,"y":0,"w":976,"h":647},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":735,"w":976,"h":647},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-guajiro.png":
+{
+	"frame": {"x":1376,"y":1292,"w":665,"h":488},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":135,"y":165,"w":665,"h":488},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"ICON_Gorras.png":
+{
+	"frame": {"x":306,"y":1290,"w":736,"h":528},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":32,"y":136,"w":736,"h":528},
+	"sourceSize": {"w":800,"h":800}
+},
+"Millo_1.png":
+{
+	"frame": {"x":1382,"y":1780,"w":267,"h":286},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":161,"y":105,"w":267,"h":286},
+	"sourceSize": {"w":600,"h":496}
+},
+"Millo_3.png":
+{
+	"frame": {"x":1042,"y":1292,"w":520,"h":334},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":81,"w":520,"h":334},
+	"sourceSize": {"w":600,"h":496}
+},
+"PIEZAS_TIENDA/M_Bom.png":
+{
+	"frame": {"x":0,"y":798,"w":467,"h":492},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":68,"y":54,"w":467,"h":492},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_T1.png":
+{
+	"frame": {"x":467,"y":798,"w":579,"h":485},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":58,"w":579,"h":485},
+	"sourceSize": {"w":600,"h":600}
+},
+"Select-ARRIBA.png":
+{
+	"frame": {"x":0,"y":1292,"w":747,"h":306},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":747,"h":306},
+	"sourceSize": {"w":747,"h":306}
+},
+"Tramas_Blanza_ARRIBA.png":
+{
+	"frame": {"x":0,"y":0,"w":798,"h":1046},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":798,"h":1046},
+	"sourceSize": {"w":800,"h":1058}
+}},
+"animations": {
+	"Millo": ["Millo_1.png","Millo_3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-4.png",
+	"format": "RGBA8888",
+	"size": {"w":2041,"h":2047},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:61ad41fc3850bc965dda10946517d9a9:7920c62708cd8e6421dfe981c37256f0:34b587df00d9f9bd8559800fb2e0dd18$"
+}
+}
