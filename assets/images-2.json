@@ -1,60 +1,76 @@
 {"frames": {
 
-"0/0_BACK_1.png":
+"1-FRUTA/1-LIMON_1.png":
 {
-	"frame": {"x":939,"y":0,"w":883,"h":1089},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":248,"y":571,"w":883,"h":1089},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"1-FRUTA/1-PINA_1.png":
-{
-	"frame": {"x":0,"y":0,"w":939,"h":1251},
+	"frame": {"x":0,"y":0,"w":971,"h":1442},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":131,"y":203,"w":939,"h":1251},
+	"spriteSourceSize": {"x":88,"y":68,"w":971,"h":1442},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"2-CARA-P/2-P_HAPPY.png":
+"2-CARA-P/2-P_CUTE.png":
 {
-	"frame": {"x":1844,"y":1248,"w":352,"h":204},
+	"frame": {"x":1898,"y":1442,"w":276,"h":119},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":448,"y":502,"w":352,"h":204},
+	"spriteSourceSize": {"x":496,"y":513,"w":276,"h":119},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"2-CARA-P/2-P_MORRITOS.png":
+"2-CARA-PL/2-PL_CUTE.png":
 {
-	"frame": {"x":1844,"y":1600,"w":350,"h":197},
+	"frame": {"x":1898,"y":290,"w":303,"h":130},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":449,"y":502,"w":350,"h":197},
+	"spriteSourceSize": {"x":474,"y":635,"w":303,"h":130},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"R-sombra.png":
+"3-LIMON/CAM_Boton_1.png":
 {
-	"frame": {"x":939,"y":883,"w":1011,"h":365},
+	"frame": {"x":971,"y":793,"w":978,"h":649},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":94,"y":420,"w":1011,"h":365},
-	"sourceSize": {"w":1200,"h":800}
+	"spriteSourceSize": {"x":82,"y":734,"w":978,"h":649},
+	"sourceSize": {"w":1200,"h":1660}
 },
-"REGALO_Gafas.png":
+"3-PINA/CAM_ARRIBA_N_2.png":
 {
-	"frame": {"x":1044,"y":1248,"w":800,"h":800},
+	"frame": {"x":0,"y":1442,"w":949,"h":603},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_BESTIA.png":
+{
+	"frame": {"x":949,"y":1442,"w":949,"h":603},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"ICO_POSESION.png":
+{
+	"frame": {"x":1898,"y":593,"w":128,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":0,"w":128,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"ICON_Gafas.png":
+{
+	"frame": {"x":1898,"y":0,"w":290,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":81,"w":290,"h":138},
+	"sourceSize": {"w":300,"h":300}
+},
+"Select-PERA.png":
+{
+	"frame": {"x":971,"y":0,"w":774,"h":784},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":8,"w":774,"h":784},
 	"sourceSize": {"w":800,"h":800}
-},
-"Tramas_Azul_BAJO.png":
-{
-	"frame": {"x":0,"y":1251,"w":797,"h":1044},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":3,"y":14,"w":797,"h":1044},
-	"sourceSize": {"w":800,"h":1058}
 }},
 "animations": {
 },
@@ -65,7 +81,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:61ad41fc3850bc965dda10946517d9a9:7920c62708cd8e6421dfe981c37256f0:34b587df00d9f9bd8559800fb2e0dd18$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:0a3432910c5f891898caf8aa92ebf104:342974c14159496c9741e746635ea434:bedb1da15266f20c904fc84223aa3707$"
 }
 }

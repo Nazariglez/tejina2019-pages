@@ -1,163 +1,155 @@
 {"frames": {
 
-"5-SOMB_LIMON/5-especial_limon.png":
+"4-MANO-FRONT/4-MANO.png":
 {
-	"frame": {"x":1502,"y":1177,"w":546,"h":398},
-	"rotated": false,
+	"frame": {"x":0,"y":1740,"w":302,"h":288},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":199,"y":130,"w":546,"h":398},
+	"spriteSourceSize": {"x":210,"y":834,"w":302,"h":288},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_LIMON/5-gorra.png":
+"4-MANO-FRONT/4-Pandereta.png":
 {
-	"frame": {"x":1502,"y":1575,"w":546,"h":398},
-	"rotated": false,
+	"frame": {"x":1010,"y":0,"w":561,"h":479},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":199,"y":130,"w":546,"h":398},
+	"spriteSourceSize": {"x":210,"y":834,"w":561,"h":479},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_LIMON/5-somb_b.png":
+"5-SOMB_PINA/5-somb_g.png":
 {
-	"frame": {"x":0,"y":1083,"w":551,"h":361},
+	"frame": {"x":1430,"y":726,"w":533,"h":379},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_LIMON/5-somb_br.png":
+"ICON_FAIL.png":
 {
-	"frame": {"x":551,"y":1083,"w":551,"h":361},
+	"frame": {"x":288,"y":1740,"w":291,"h":298},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":5,"y":1,"w":291,"h":298},
+	"sourceSize": {"w":300,"h":300}
 },
-"5-SOMB_LIMON/5-somb_g.png":
+"ICON_Musical.png":
 {
-	"frame": {"x":0,"y":1444,"w":551,"h":361},
+	"frame": {"x":1120,"y":1731,"w":276,"h":274},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":13,"w":276,"h":274},
+	"sourceSize": {"w":300,"h":300}
+},
+"ICON_OK.png":
+{
+	"frame": {"x":579,"y":1732,"w":298,"h":272},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":14,"w":298,"h":272},
+	"sourceSize": {"w":300,"h":300}
+},
+"ICON_PIQU3.png":
+{
+	"frame": {"x":0,"y":0,"w":524,"h":600},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":38,"y":0,"w":524,"h":600},
+	"sourceSize": {"w":600,"h":600}
 },
-"5-SOMB_LIMON/5-somb_w.png":
+"Millo_1.png":
 {
-	"frame": {"x":551,"y":1444,"w":551,"h":361},
+	"frame": {"x":851,"y":1732,"w":269,"h":288},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":155,"y":202,"w":551,"h":361},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":160,"y":104,"w":269,"h":288},
+	"sourceSize": {"w":600,"h":496}
 },
-"5-SOMB_PERA/5-bise-w.png":
+"PIEZAS_TIENDA/C_AsLI.png":
 {
-	"frame": {"x":0,"y":0,"w":461,"h":275},
-	"rotated": false,
+	"frame": {"x":1489,"y":0,"w":363,"h":556},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":294,"y":100,"w":461,"h":275},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":140,"y":22,"w":363,"h":556},
+	"sourceSize": {"w":600,"h":600}
 },
-"5-SOMB_PINA/5-somb_w.png":
+"PIEZAS_TIENDA/C_AsPE.png":
 {
-	"frame": {"x":1508,"y":400,"w":531,"h":377},
-	"rotated": false,
+	"frame": {"x":1489,"y":363,"w":363,"h":556},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":220,"w":531,"h":377},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"Back.png":
-{
-	"frame": {"x":1569,"y":0,"w":400,"h":400},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
-	"sourceSize": {"w":400,"h":400}
-},
-"Check.png":
-{
-	"frame": {"x":0,"y":675,"w":400,"h":400},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
-	"sourceSize": {"w":400,"h":400}
-},
-"CLOSE.png":
-{
-	"frame": {"x":0,"y":275,"w":400,"h":400},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
-	"sourceSize": {"w":400,"h":400}
-},
-"ESTILO.png":
-{
-	"frame": {"x":1508,"y":777,"w":400,"h":400},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
-	"sourceSize": {"w":400,"h":400}
-},
-"Mas.png":
-{
-	"frame": {"x":1102,"y":1483,"w":400,"h":400},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
-	"sourceSize": {"w":400,"h":400}
-},
-"MENU.png":
-{
-	"frame": {"x":1102,"y":1083,"w":400,"h":400},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
-	"sourceSize": {"w":400,"h":400}
+	"spriteSourceSize": {"x":140,"y":22,"w":363,"h":556},
+	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/C_AsPE2.png":
 {
-	"frame": {"x":461,"y":0,"w":361,"h":554},
-	"rotated": true,
+	"frame": {"x":1368,"y":1122,"w":363,"h":556},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":141,"y":23,"w":361,"h":554},
+	"spriteSourceSize": {"x":140,"y":22,"w":363,"h":556},
 	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/C_AsPI.png":
 {
-	"frame": {"x":1015,"y":0,"w":361,"h":554},
+	"frame": {"x":1394,"y":1678,"w":363,"h":556},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":141,"y":23,"w":361,"h":554},
+	"spriteSourceSize": {"x":140,"y":22,"w":363,"h":556},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/C_DesLI.png":
+"PIEZAS_TIENDA/C_Cora.png":
 {
-	"frame": {"x":400,"y":361,"w":361,"h":554},
-	"rotated": true,
+	"frame": {"x":882,"y":1170,"w":486,"h":561},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":141,"y":23,"w":361,"h":554},
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/C_DesPE.png":
+"PIEZAS_TIENDA/C_UT.png":
 {
-	"frame": {"x":954,"y":361,"w":361,"h":554},
-	"rotated": true,
+	"frame": {"x":524,"y":0,"w":486,"h":561},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":141,"y":23,"w":361,"h":554},
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/C_DesPE2.png":
+"PIEZAS_TIENDA/G_PI.png":
 {
-	"frame": {"x":400,"y":722,"w":361,"h":554},
+	"frame": {"x":472,"y":1170,"w":562,"h":410},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":141,"y":23,"w":361,"h":554},
+	"spriteSourceSize": {"x":26,"y":85,"w":562,"h":410},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/C_DesPI.png":
+"PIEZAS_TIENDA/M_Gfa.png":
 {
-	"frame": {"x":954,"y":722,"w":361,"h":554},
-	"rotated": true,
+	"frame": {"x":0,"y":600,"w":472,"h":570},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":141,"y":23,"w":361,"h":554},
+	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_Gpi.png":
+{
+	"frame": {"x":0,"y":1170,"w":472,"h":570},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_Gro.png":
+{
+	"frame": {"x":472,"y":600,"w":472,"h":570},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/S_CAM.png":
+{
+	"frame": {"x":944,"y":561,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
 	"sourceSize": {"w":600,"h":600}
 }},
 "animations": {
@@ -167,9 +159,9 @@
 	"version": "1.0",
 	"image": "images-13.png",
 	"format": "RGBA8888",
-	"size": {"w":2048,"h":1973},
+	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-14.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:61ad41fc3850bc965dda10946517d9a9:7920c62708cd8e6421dfe981c37256f0:34b587df00d9f9bd8559800fb2e0dd18$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-14.json", "images-15.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:0a3432910c5f891898caf8aa92ebf104:342974c14159496c9741e746635ea434:bedb1da15266f20c904fc84223aa3707$"
 }
 }
