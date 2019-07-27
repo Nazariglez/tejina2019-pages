@@ -1,103 +1,102 @@
 {"frames": {
 
-"0/0_Back.png":
+"2-CARA-P/2-P_MORRITOS.png":
 {
-	"frame": {"x":0,"y":0,"w":674,"h":1026},
+	"frame": {"x":1844,"y":1290,"w":352,"h":199},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":448,"y":501,"w":352,"h":199},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-P/2-P_WOMAN.png":
+{
+	"frame": {"x":1844,"y":1642,"w":374,"h":195},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":432,"y":501,"w":374,"h":195},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-PL/2-PL_SEXY.png":
+{
+	"frame": {"x":1597,"y":600,"w":440,"h":231},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":458,"y":574,"w":674,"h":1026},
-	"sourceSize": {"w":1200,"h":1600}
+	"spriteSourceSize": {"x":386,"y":616,"w":440,"h":231},
+	"sourceSize": {"w":1200,"h":1660}
 },
-"3-LIMON/CAM_CORAZ.png":
+"3-LIMON/CAM_ABAJO_A_1.png":
 {
-	"frame": {"x":674,"y":0,"w":972,"h":647},
+	"frame": {"x":649,"y":1047,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Bandu_1.png":
+"3-LIMON/CAM_Boton_1.png":
 {
-	"frame": {"x":1321,"y":1052,"w":401,"h":633},
+	"frame": {"x":0,"y":1047,"w":978,"h":649},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":210,"y":785,"w":401,"h":633},
+	"spriteSourceSize": {"x":82,"y":734,"w":978,"h":649},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Timple_2.png":
+"5-SOMB_PINA/5-gorrap.png":
 {
-	"frame": {"x":1321,"y":0,"w":376,"h":718},
+	"frame": {"x":1597,"y":831,"w":459,"h":435},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":210,"y":765,"w":376,"h":718},
+	"spriteSourceSize": {"x":199,"y":241,"w":459,"h":435},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Timple_3.png":
+"BTN_REJUGAR.png":
 {
-	"frame": {"x":1321,"y":376,"w":376,"h":718},
+	"frame": {"x":1296,"y":1045,"w":763,"h":300},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":763,"h":300},
+	"sourceSize": {"w":763,"h":300}
+},
+"BTN_SIGUE.png":
+{
+	"frame": {"x":1296,"y":1808,"w":548,"h":232},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":548,"h":232},
+	"sourceSize": {"w":548,"h":232}
+},
+"GANA_xDINERO.png":
+{
+	"frame": {"x":1596,"y":1290,"w":507,"h":226},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":507,"h":226},
+	"sourceSize": {"w":507,"h":226}
+},
+"Millo_10.png":
+{
+	"frame": {"x":1597,"y":0,"w":600,"h":446},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":210,"y":765,"w":376,"h":718},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":0,"y":25,"w":600,"h":446},
+	"sourceSize": {"w":600,"h":496}
 },
-"PIEZAS_TIENDA/M_T3.png":
+"Tramas_Azul_BAJO.png":
 {
-	"frame": {"x":733,"y":972,"w":588,"h":485},
+	"frame": {"x":799,"y":0,"w":798,"h":1045},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":7,"y":58,"w":588,"h":485},
-	"sourceSize": {"w":600,"h":600}
+	"spriteSourceSize": {"x":2,"y":13,"w":798,"h":1045},
+	"sourceSize": {"w":800,"h":1058}
 },
-"PIEZAS_TIENDA/S_GUAJI.png":
+"Tramas_Blanza_ARRIBA.png":
 {
-	"frame": {"x":733,"y":1457,"w":591,"h":367},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":3,"y":89,"w":591,"h":367},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/VI_LI.png":
-{
-	"frame": {"x":1716,"y":1453,"w":548,"h":328},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":26,"y":133,"w":548,"h":328},
-	"sourceSize": {"w":600,"h":600}
-},
-"R-sombra.png":
-{
-	"frame": {"x":0,"y":1026,"w":1013,"h":367},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":93,"y":419,"w":1013,"h":367},
-	"sourceSize": {"w":1200,"h":800}
-},
-"Select-ELPICO.png":
-{
-	"frame": {"x":1321,"y":752,"w":675,"h":300},
+	"frame": {"x":0,"y":0,"w":799,"h":1047},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":36,"y":3,"w":675,"h":300},
-	"sourceSize": {"w":747,"h":306}
-},
-"Select-LIMON.png":
-{
-	"frame": {"x":1100,"y":1457,"w":584,"h":616},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":147,"y":89,"w":584,"h":616},
-	"sourceSize": {"w":800,"h":800}
-},
-"sombra_multiplicar.png":
-{
-	"frame": {"x":367,"y":1026,"w":1010,"h":366},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":95,"y":218,"w":1010,"h":366},
-	"sourceSize": {"w":1200,"h":800}
+	"spriteSourceSize": {"x":0,"y":0,"w":799,"h":1047},
+	"sourceSize": {"w":800,"h":1058}
 }},
 "animations": {
-	"4-MANO-FRONT/4-Timple": ["4-MANO-FRONT/4-Timple_2.png","4-MANO-FRONT/4-Timple_3.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -106,7 +105,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:0a3432910c5f891898caf8aa92ebf104:342974c14159496c9741e746635ea434:bedb1da15266f20c904fc84223aa3707$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:acf79a8385c3938d56e0c12b4383047d:c52f865358ece6af7ec19432e6c5491c:18b2b0cb63cae0ab693a0b0771b82b88$"
 }
 }
