@@ -1,67 +1,75 @@
 {"frames": {
 
-"1-FRUTA/1-PERA_1.png":
+"2-CARA-P/2-P_CUTE.png":
 {
-	"frame": {"x":2,"y":2,"w":897,"h":1487},
+	"frame": {"x":1888,"y":704,"w":276,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":496,"y":513,"w":276,"h":119},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PERA/5-guajiro.png":
+{
+	"frame": {"x":1113,"y":1462,"w":576,"h":425},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":203,"y":37,"w":576,"h":425},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"Back_tienda.png":
+{
+	"frame": {"x":1888,"y":296,"w":134,"h":200},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":143,"y":0,"w":897,"h":1487},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":29,"y":0,"w":134,"h":200},
+	"sourceSize": {"w":200,"h":200}
 },
-"1-FRUTA/1-PINA_1.png":
+"ICO_POSESION.png":
 {
-	"frame": {"x":1103,"y":2,"w":941,"h":1253},
+	"frame": {"x":1888,"y":500,"w":128,"h":200},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":202,"w":941,"h":1253},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":36,"y":0,"w":128,"h":200},
+	"sourceSize": {"w":200,"h":200}
 },
-"2-CARA-P/2-P_WOMAN.png":
+"ICON_Gafas.png":
 {
-	"frame": {"x":903,"y":2,"w":374,"h":195},
+	"frame": {"x":1888,"y":2,"w":290,"h":138},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":432,"y":501,"w":374,"h":195},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":5,"y":81,"w":290,"h":138},
+	"sourceSize": {"w":300,"h":300}
 },
-"5-SOMB_LIMON/5-somb_b.png":
+"M-PIQU3_1.png":
 {
-	"frame": {"x":2,"y":1493,"w":553,"h":363},
+	"frame": {"x":2,"y":2,"w":1882,"h":1456},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":155,"y":40,"w":1882,"h":1456},
+	"sourceSize": {"w":2044,"h":1637}
+},
+"PIEZAS_TIENDA/M_Bom.png":
+{
+	"frame": {"x":1542,"y":1462,"w":469,"h":494},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":154,"y":201,"w":553,"h":363},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"5-SOMB_LIMON/5-somb_br.png":
-{
-	"frame": {"x":369,"y":1493,"w":553,"h":363},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":154,"y":201,"w":553,"h":363},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"5-SOMB_LIMON/5-somb_g.png":
-{
-	"frame": {"x":736,"y":1493,"w":553,"h":363},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":154,"y":201,"w":553,"h":363},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"PIEZAS_TIENDA/CARA_CUTE.png":
-{
-	"frame": {"x":903,"y":380,"w":412,"h":177},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":122,"y":212,"w":412,"h":177},
+	"spriteSourceSize": {"x":67,"y":53,"w":469,"h":494},
 	"sourceSize": {"w":600,"h":600}
 },
-"Select-PERA.png":
+"PIEZAS_TIENDA/M_T1.png":
 {
-	"frame": {"x":1103,"y":1259,"w":774,"h":784},
-	"rotated": false,
+	"frame": {"x":622,"y":1462,"w":581,"h":487},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":5,"y":8,"w":774,"h":784},
+	"spriteSourceSize": {"x":11,"y":57,"w":581,"h":487},
+	"sourceSize": {"w":600,"h":600}
+},
+"Select-LIMON.png":
+{
+	"frame": {"x":2,"y":1462,"w":584,"h":616},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":147,"y":89,"w":584,"h":616},
 	"sourceSize": {"w":800,"h":800}
 }},
 "animations": {
@@ -73,7 +81,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:15eb66aa8e6e8cc515e0dd2c412f7d50:89aa62e5963536cc8374ae36d3c87396:44448f3312080e4d049e7f165c32026c$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:0d7ec3e9d81d1dddcbd7d07e8596c31a:0b1c2c1ef330ea5ecc8310700526d4dd:adc3a350462f5a4a482e55ca37a2c6cf$"
 }
 }
