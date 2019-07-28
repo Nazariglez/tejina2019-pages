@@ -1,16 +1,24 @@
 {"frames": {
 
-"3-LIMON/CAM_ABAJO_A_Descuelgue.png":
+"2-CARA-PL/2-PL_WOMAN.png":
 {
-	"frame": {"x":1294,"y":647,"w":972,"h":614},
+	"frame": {"x":1262,"y":1629,"w":411,"h":214},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":88,"y":769,"w":972,"h":614},
+	"spriteSourceSize": {"x":403,"y":621,"w":411,"h":214},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-LIMON/CAM_ABAJO_A_2.png":
+{
+	"frame": {"x":2,"y":2,"w":972,"h":647},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "3-LIMON/CAM_BESTIA.png":
 {
-	"frame": {"x":0,"y":0,"w":972,"h":647},
+	"frame": {"x":978,"y":2,"w":972,"h":647},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
@@ -18,15 +26,15 @@
 },
 "3-LIMON/CAM_CORAZ.png":
 {
-	"frame": {"x":972,"y":0,"w":972,"h":647},
-	"rotated": false,
+	"frame": {"x":2,"y":653,"w":972,"h":647},
+	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "3-LIMON/CAM_ESPESIAL.png":
 {
-	"frame": {"x":0,"y":647,"w":972,"h":647},
+	"frame": {"x":653,"y":653,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
@@ -34,38 +42,37 @@
 },
 "3-LIMON/CAM_UT.png":
 {
-	"frame": {"x":647,"y":647,"w":972,"h":647},
+	"frame": {"x":1304,"y":653,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Laud_1.png":
+"6-GAFAS_PINA/6-gafa-corazon.png":
 {
-	"frame": {"x":0,"y":1619,"w":429,"h":784},
-	"rotated": true,
+	"frame": {"x":2,"y":1629,"w":772,"h":415},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
+	"spriteSourceSize": {"x":137,"y":447,"w":772,"h":415},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Laud_2.png":
+"PIEZAS_TIENDA/G_PE.png":
 {
-	"frame": {"x":784,"y":1619,"w":429,"h":784},
-	"rotated": true,
+	"frame": {"x":1480,"y":1629,"w":562,"h":410},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":25,"y":85,"w":562,"h":410},
+	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/M_Pan.png":
 {
-	"frame": {"x":1568,"y":1619,"w":413,"h":480},
+	"frame": {"x":778,"y":1629,"w":413,"h":480},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":104,"y":41,"w":413,"h":480},
 	"sourceSize": {"w":600,"h":600}
 }},
 "animations": {
-	"4-MANO-FRONT/4-Laud": ["4-MANO-FRONT/4-Laud_1.png","4-MANO-FRONT/4-Laud_2.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -74,7 +81,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:9d1a0f45286cb96a9976ac92716b241e:c52f865358ece6af7ec19432e6c5491c:18b2b0cb63cae0ab693a0b0771b82b88$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2325c47af677dbe3c49c8939e835061b:fbdbe95214e6b53f8a2597175466c5f4:fd8a98860c780e8932d8931aa855b07a$"
 }
 }

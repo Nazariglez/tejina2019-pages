@@ -2,71 +2,63 @@
 
 "0/0_Back.png":
 {
-	"frame": {"x":0,"y":0,"w":674,"h":1026},
+	"frame": {"x":2,"y":2,"w":674,"h":1026},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":458,"y":574,"w":674,"h":1026},
 	"sourceSize": {"w":1200,"h":1600}
 },
-"2-CARA-PL/2-PL_HAPPY.png":
+"3-LIMON/CAM_ABAJO_A_1.png":
 {
-	"frame": {"x":1536,"y":1818,"w":389,"h":226},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":421,"y":621,"w":389,"h":226},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"2-CARA-PL/2-PL_SMILE.png":
-{
-	"frame": {"x":1148,"y":1818,"w":388,"h":227},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":421,"y":620,"w":388,"h":227},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"3-LIMON/CAM_ABAJO_A_2.png":
-{
-	"frame": {"x":674,"y":0,"w":972,"h":647},
+	"frame": {"x":680,"y":2,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PERA/CAM_BESTIA.png":
+"4-MANO-FRONT/4-Guit_Roble.png":
 {
-	"frame": {"x":1148,"y":1164,"w":900,"h":654},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"4-MANO-FRONT/4-Timple_3.png":
-{
-	"frame": {"x":1321,"y":0,"w":376,"h":718},
+	"frame": {"x":1219,"y":1468,"w":426,"h":819},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":210,"y":765,"w":376,"h":718},
+	"spriteSourceSize": {"x":183,"y":765,"w":426,"h":819},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "5-SOMB_LIMON/5-guajiro.png":
 {
-	"frame": {"x":1321,"y":676,"w":667,"h":488},
+	"frame": {"x":1331,"y":800,"w":667,"h":488},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":134,"y":114,"w":667,"h":488},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"6-GAFAS_LIMON/6-gafa-corazon.png":
+"5-SOMB_PINA/5-guajiro.png":
 {
-	"frame": {"x":733,"y":1164,"w":884,"h":415},
+	"frame": {"x":1331,"y":306,"w":667,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":164,"w":667,"h":490},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"PIEZAS_TIENDA/C_PARTY.png":
+{
+	"frame": {"x":743,"y":978,"w":486,"h":573},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":82,"y":447,"w":884,"h":415},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":44,"y":5,"w":486,"h":573},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_Gac.png":
+{
+	"frame": {"x":743,"y":1468,"w":472,"h":570},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"sourceSize": {"w":600,"h":600}
 },
 "R-sombra.png":
 {
-	"frame": {"x":0,"y":1026,"w":1013,"h":367},
+	"frame": {"x":2,"y":1032,"w":1013,"h":367},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":93,"y":419,"w":1013,"h":367},
@@ -74,7 +66,7 @@
 },
 "Select-ELPICO.png":
 {
-	"frame": {"x":1321,"y":376,"w":675,"h":300},
+	"frame": {"x":1331,"y":2,"w":675,"h":300},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":36,"y":3,"w":675,"h":300},
@@ -82,7 +74,7 @@
 },
 "sombra_multiplicar.png":
 {
-	"frame": {"x":367,"y":1026,"w":1010,"h":366},
+	"frame": {"x":373,"y":1032,"w":1010,"h":366},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":95,"y":218,"w":1010,"h":366},
@@ -97,7 +89,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:9d1a0f45286cb96a9976ac92716b241e:c52f865358ece6af7ec19432e6c5491c:18b2b0cb63cae0ab693a0b0771b82b88$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2325c47af677dbe3c49c8939e835061b:fbdbe95214e6b53f8a2597175466c5f4:fd8a98860c780e8932d8931aa855b07a$"
 }
 }
