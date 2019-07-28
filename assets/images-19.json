@@ -1,0 +1,143 @@
+{"frames": {
+
+"2-CARA-PL/2-PL_HAPPIEST.png":
+{
+	"frame": {"x":1767,"y":1260,"w":335,"h":274},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":445,"y":573,"w":335,"h":274},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"4-MANO-FRONT/4-MANO.png":
+{
+	"frame": {"x":1671,"y":1599,"w":302,"h":288},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":834,"w":302,"h":288},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-especial_limon.png":
+{
+	"frame": {"x":2,"y":1634,"w":548,"h":400},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":129,"w":548,"h":400},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-gorra.png":
+{
+	"frame": {"x":554,"y":1634,"w":548,"h":400},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":129,"w":548,"h":400},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"ICON_Musical.png":
+{
+	"frame": {"x":1767,"y":982,"w":276,"h":274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":13,"w":276,"h":274},
+	"sourceSize": {"w":300,"h":300}
+},
+"PIEZAS_TIENDA/C_BES.png":
+{
+	"frame": {"x":1239,"y":2,"w":486,"h":561},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_CLI.png":
+{
+	"frame": {"x":662,"y":492,"w":486,"h":561},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_Cora.png":
+{
+	"frame": {"x":492,"y":1069,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_CPE.png":
+{
+	"frame": {"x":2,"y":579,"w":486,"h":561},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_CPE2.png":
+{
+	"frame": {"x":1227,"y":492,"w":486,"h":561},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_CPI.png":
+{
+	"frame": {"x":2,"y":1069,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_PARTY.png":
+{
+	"frame": {"x":662,"y":2,"w":486,"h":573},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":5,"w":486,"h":573},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_UT.png":
+{
+	"frame": {"x":982,"y":982,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/CARA_MUJER.png":
+{
+	"frame": {"x":1472,"y":982,"w":560,"h":291},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":155,"w":560,"h":291},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/S_CAM.png":
+{
+	"frame": {"x":1106,"y":1547,"w":486,"h":561},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"R-x20.png":
+{
+	"frame": {"x":2,"y":2,"w":656,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":144,"w":656,"h":573},
+	"sourceSize": {"w":1200,"h":800}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-19.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-20.json", "images-21.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:15eb66aa8e6e8cc515e0dd2c412f7d50:89aa62e5963536cc8374ae36d3c87396:44448f3312080e4d049e7f165c32026c$"
+}
+}
