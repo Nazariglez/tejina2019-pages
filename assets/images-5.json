@@ -1,5 +1,21 @@
 {"frames": {
 
+"2-CARA-P/2-P_HAPPIEST.png":
+{
+	"frame": {"x":1740,"y":822,"w":305,"h":249},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":465,"y":462,"w":305,"h":249},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-PL/2-PL_PARTY.png":
+{
+	"frame": {"x":1308,"y":822,"w":282,"h":222},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":480,"y":625,"w":282,"h":222},
+	"sourceSize": {"w":1200,"h":1660}
+},
 "4-MANO-FRONT/4-Timple_1.png":
 {
 	"frame": {"x":1308,"y":442,"w":376,"h":727},
@@ -8,13 +24,13 @@
 	"spriteSourceSize": {"x":210,"y":756,"w":376,"h":727},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Timple_2.png":
+"ICON_Gorras.png":
 {
-	"frame": {"x":1308,"y":822,"w":376,"h":718},
+	"frame": {"x":1534,"y":822,"w":280,"h":202},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":210,"y":765,"w":376,"h":718},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":10,"y":49,"w":280,"h":202},
+	"sourceSize": {"w":300,"h":300}
 },
 "M-PIQU3_2.png":
 {
@@ -24,21 +40,21 @@
 	"spriteSourceSize": {"x":637,"y":66,"w":1302,"h":1104},
 	"sourceSize": {"w":2044,"h":1637}
 },
-"MEDALLA_BRONCE.png":
+"PIEZAS_TIENDA/G_LI.png":
 {
-	"frame": {"x":2,"y":1202,"w":840,"h":980},
+	"frame": {"x":1021,"y":1481,"w":562,"h":410},
 	"rotated": true,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":980},
-	"sourceSize": {"w":840,"h":980}
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":85,"w":562,"h":410},
+	"sourceSize": {"w":600,"h":600}
 },
-"MEDALLA_ORO.png":
+"PIEZAS_TIENDA/G_PE.png":
 {
-	"frame": {"x":986,"y":1202,"w":840,"h":980},
+	"frame": {"x":1435,"y":1481,"w":562,"h":410},
 	"rotated": true,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":980},
-	"sourceSize": {"w":840,"h":980}
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":85,"w":562,"h":410},
+	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/VI_W.png":
 {
@@ -47,9 +63,24 @@
 	"trimmed": true,
 	"spriteSourceSize": {"x":34,"y":178,"w":730,"h":436},
 	"sourceSize": {"w":800,"h":800}
+},
+"R-sombra.png":
+{
+	"frame": {"x":1021,"y":1110,"w":1013,"h":367},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":93,"y":419,"w":1013,"h":367},
+	"sourceSize": {"w":1200,"h":800}
+},
+"TUTO_3.png":
+{
+	"frame": {"x":2,"y":1110,"w":929,"h":1015},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":515,"w":929,"h":1015},
+	"sourceSize": {"w":1000,"h":1600}
 }},
 "animations": {
-	"4-MANO-FRONT/4-Timple": ["4-MANO-FRONT/4-Timple_1.png","4-MANO-FRONT/4-Timple_2.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -58,7 +89,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:0d7ec3e9d81d1dddcbd7d07e8596c31a:0b1c2c1ef330ea5ecc8310700526d4dd:adc3a350462f5a4a482e55ca37a2c6cf$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f71649483f891df0aecbb24cc503b3cb:37eac67aa6deb3ca4e132626ae75d6c2:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

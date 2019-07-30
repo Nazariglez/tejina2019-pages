@@ -1,32 +1,8 @@
 {"frames": {
 
-"2-CARA-PL/2-PL_PARTY.png":
-{
-	"frame": {"x":670,"y":1778,"w":282,"h":222},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":480,"y":625,"w":282,"h":222},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"2-CARA-PL/2-PL_SEXY.png":
-{
-	"frame": {"x":719,"y":620,"w":440,"h":231},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":386,"y":616,"w":440,"h":231},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"3-LIMON/CAM_PICO_A_DescuelgueB.png":
-{
-	"frame": {"x":2,"y":2,"w":972,"h":614},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":88,"y":769,"w":972,"h":614},
-	"sourceSize": {"w":1200,"h":1660}
-},
 "3-PINA/CAM_ARRIBA_N_2.png":
 {
-	"frame": {"x":978,"y":2,"w":949,"h":603},
+	"frame": {"x":959,"y":2,"w":949,"h":603},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
@@ -34,55 +10,63 @@
 },
 "3-PINA/CAM_BESTIA.png":
 {
-	"frame": {"x":978,"y":609,"w":949,"h":603},
+	"frame": {"x":959,"y":609,"w":949,"h":603},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Bombo.png":
+"3-PINA/CAM_Boton_1.png":
 {
-	"frame": {"x":1407,"y":1216,"w":628,"h":656},
+	"frame": {"x":2,"y":2,"w":953,"h":610},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":210,"y":809,"w":628,"h":656},
+	"spriteSourceSize": {"x":126,"y":742,"w":953,"h":610},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_CORAZ.png":
+{
+	"frame": {"x":2,"y":616,"w":949,"h":603},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "4-MANO-FRONT/4-Guit_Pino.png":
 {
-	"frame": {"x":977,"y":1216,"w":426,"h":819},
+	"frame": {"x":2,"y":1223,"w":426,"h":819},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":183,"y":765,"w":426,"h":819},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"6-GAFAS_PERA/6-gafa-corazon.png":
+"4-MANO-FRONT/4-Guit_Roble.png":
 {
-	"frame": {"x":2,"y":620,"w":592,"h":342},
-	"rotated": true,
+	"frame": {"x":432,"y":1223,"w":426,"h":819},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":269,"y":348,"w":592,"h":342},
+	"spriteSourceSize": {"x":183,"y":765,"w":426,"h":819},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"PIEZAS_TIENDA/GAF_1.png":
+"ICON_Camisa.png":
 {
-	"frame": {"x":670,"y":1215,"w":559,"h":303},
-	"rotated": true,
+	"frame": {"x":1623,"y":1780,"w":296,"h":244},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":21,"y":149,"w":559,"h":303},
-	"sourceSize": {"w":600,"h":600}
+	"spriteSourceSize": {"x":2,"y":28,"w":296,"h":244},
+	"sourceSize": {"w":300,"h":300}
 },
-"PIEZAS_TIENDA/S_GUAJI.png":
+"PIEZAS_TIENDA/SP_PE.png":
 {
-	"frame": {"x":348,"y":620,"w":591,"h":367},
+	"frame": {"x":1623,"y":1216,"w":560,"h":408},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":3,"y":89,"w":591,"h":367},
+	"spriteSourceSize": {"x":27,"y":84,"w":560,"h":408},
 	"sourceSize": {"w":600,"h":600}
 },
 "R-x30.png":
 {
-	"frame": {"x":2,"y":1216,"w":824,"h":664},
+	"frame": {"x":955,"y":1216,"w":824,"h":664},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":208,"y":53,"w":824,"h":664},
@@ -97,7 +81,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:0d7ec3e9d81d1dddcbd7d07e8596c31a:0b1c2c1ef330ea5ecc8310700526d4dd:adc3a350462f5a4a482e55ca37a2c6cf$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f71649483f891df0aecbb24cc503b3cb:37eac67aa6deb3ca4e132626ae75d6c2:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

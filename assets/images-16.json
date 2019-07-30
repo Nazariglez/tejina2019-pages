@@ -1,6 +1,14 @@
 {"frames": {
 
-"3-PERA/CAM_BESTIA.png":
+"2-CARA-PL/2-PL_SEXY.png":
+{
+	"frame": {"x":1810,"y":554,"w":440,"h":231},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":386,"y":616,"w":440,"h":231},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_ARRIBA_V_Descuelgue.png":
 {
 	"frame": {"x":2,"y":2,"w":900,"h":654},
 	"rotated": false,
@@ -8,7 +16,7 @@
 	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PERA/CAM_ESPESIAL.png":
+"3-PERA/CAM_BESTIA.png":
 {
 	"frame": {"x":906,"y":2,"w":900,"h":654},
 	"rotated": false,
@@ -16,73 +24,102 @@
 	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PERA/CAM_PICO_B_1.png":
+"3-PERA/CAM_ESPESIAL.png":
 {
-	"frame": {"x":2,"y":660,"w":900,"h":654},
+	"frame": {"x":2,"y":998,"w":900,"h":654},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PERA/CAM_PICO_B_2.png":
+"5-SOMB_LIMON/5-guajiro.png":
 {
-	"frame": {"x":660,"y":660,"w":900,"h":654},
-	"rotated": true,
+	"frame": {"x":1106,"y":964,"w":667,"h":488},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"spriteSourceSize": {"x":134,"y":114,"w":667,"h":488},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PERA/CAM_PICO_B_Descuelgue.png":
+"5-SOMB_PINA/5-gorrap.png":
 {
-	"frame": {"x":1318,"y":660,"w":900,"h":654},
+	"frame": {"x":660,"y":992,"w":459,"h":435},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"spriteSourceSize": {"x":199,"y":241,"w":459,"h":435},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_PERA/5-bidr-v.png":
+"BTN_SIGUE.png":
 {
-	"frame": {"x":1724,"y":1564,"w":463,"h":277},
+	"frame": {"x":1810,"y":2,"w":548,"h":232},
 	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
-	"sourceSize": {"w":1200,"h":1660}
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":548,"h":232},
+	"sourceSize": {"w":548,"h":232}
 },
 "GANA_xDINERO.png":
 {
-	"frame": {"x":1810,"y":2,"w":507,"h":226},
-	"rotated": true,
+	"frame": {"x":1521,"y":1809,"w":507,"h":226},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":507,"h":226},
 	"sourceSize": {"w":507,"h":226}
 },
-"PIEZAS_TIENDA/M_Gfa.png":
+"ICON_Disfraz.png":
 {
-	"frame": {"x":2,"y":1564,"w":472,"h":570},
+	"frame": {"x":1777,"y":998,"w":300,"h":240},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"spriteSourceSize": {"x":0,"y":30,"w":300,"h":240},
+	"sourceSize": {"w":300,"h":300}
+},
+"PIEZAS_TIENDA/C_PARTY.png":
+{
+	"frame": {"x":1031,"y":1456,"w":486,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":5,"w":486,"h":573},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/M_Gpi.png":
+"PIEZAS_TIENDA/R_PI.png":
 {
-	"frame": {"x":576,"y":1564,"w":472,"h":570},
-	"rotated": true,
+	"frame": {"x":1521,"y":1456,"w":525,"h":349},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"spriteSourceSize": {"x":27,"y":116,"w":525,"h":349},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/M_Gro.png":
+"PIEZAS_TIENDA/S_GUAJI.png":
 {
-	"frame": {"x":1150,"y":1564,"w":472,"h":570},
+	"frame": {"x":660,"y":1455,"w":591,"h":367},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"spriteSourceSize": {"x":3,"y":89,"w":591,"h":367},
 	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/VI_LI.png":
+{
+	"frame": {"x":2,"y":660,"w":548,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":133,"w":548,"h":328},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/VI_PE.png":
+{
+	"frame": {"x":554,"y":660,"w":548,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":133,"w":548,"h":328},
+	"sourceSize": {"w":600,"h":600}
+},
+"Select-ELPICO.png":
+{
+	"frame": {"x":1106,"y":660,"w":675,"h":300},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":3,"w":675,"h":300},
+	"sourceSize": {"w":747,"h":306}
 }},
-"animations": {
-	"3-PERA/CAM_PICO_B": ["3-PERA/CAM_PICO_B_1.png","3-PERA/CAM_PICO_B_2.png"]
-},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
@@ -90,7 +127,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:0d7ec3e9d81d1dddcbd7d07e8596c31a:0b1c2c1ef330ea5ecc8310700526d4dd:adc3a350462f5a4a482e55ca37a2c6cf$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f71649483f891df0aecbb24cc503b3cb:37eac67aa6deb3ca4e132626ae75d6c2:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

@@ -90,7 +90,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:0d7ec3e9d81d1dddcbd7d07e8596c31a:0b1c2c1ef330ea5ecc8310700526d4dd:adc3a350462f5a4a482e55ca37a2c6cf$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:f71649483f891df0aecbb24cc503b3cb:37eac67aa6deb3ca4e132626ae75d6c2:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }
