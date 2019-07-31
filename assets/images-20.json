@@ -1,108 +1,148 @@
 {"frames": {
 
+"2-CARA-PL/2-PL_HAPPIEST.png":
+{
+	"frame": {"x":1763,"y":1104,"w":335,"h":274},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":445,"y":573,"w":335,"h":274},
+	"sourceSize": {"w":1200,"h":1660}
+},
 "4-MANO-FRONT/4-Bombo.png":
 {
-	"frame": {"x":2,"y":790,"w":628,"h":656},
-	"rotated": false,
+	"frame": {"x":769,"y":2,"w":628,"h":656},
+	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":210,"y":809,"w":628,"h":656},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Laud_4.png":
+"4-MANO-FRONT/4-BOTELLA_1.png":
 {
-	"frame": {"x":2,"y":2,"w":429,"h":784},
-	"rotated": false,
+	"frame": {"x":1534,"y":1443,"w":301,"h":508},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
+	"spriteSourceSize": {"x":210,"y":834,"w":301,"h":508},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PERA/5-somb_b.png":
+{
+	"frame": {"x":2,"y":1027,"w":462,"h":327},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":247,"y":85,"w":462,"h":327},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_b.png":
+{
+	"frame": {"x":2,"y":1499,"w":533,"h":379},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_br.png":
+{
+	"frame": {"x":385,"y":1499,"w":533,"h":379},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_g.png":
+{
+	"frame": {"x":768,"y":1499,"w":533,"h":379},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_w.png":
+{
+	"frame": {"x":1151,"y":1499,"w":533,"h":379},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "6-GAFAS_PERA/6-gafa-corazon.png":
 {
-	"frame": {"x":963,"y":2,"w":592,"h":342},
-	"rotated": true,
+	"frame": {"x":2,"y":681,"w":592,"h":342},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":269,"y":348,"w":592,"h":342},
 	"sourceSize": {"w":1200,"h":1660}
 },
+"BTN_REJUGAR.png":
+{
+	"frame": {"x":2,"y":2,"w":763,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":763,"h":300},
+	"sourceSize": {"w":763,"h":300}
+},
+"EMPTY.png":
+{
+	"frame": {"x":1534,"y":1748,"w":298,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":51,"w":298,"h":298},
+	"sourceSize": {"w":400,"h":400}
+},
+"ICON_Musical.png":
+{
+	"frame": {"x":1763,"y":826,"w":276,"h":274},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":13,"w":276,"h":274},
+	"sourceSize": {"w":300,"h":300}
+},
 "ICON_PIQU3.png":
 {
-	"frame": {"x":435,"y":2,"w":524,"h":600},
-	"rotated": false,
+	"frame": {"x":1429,"y":298,"w":524,"h":600},
+	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":38,"y":0,"w":524,"h":600},
 	"sourceSize": {"w":600,"h":600}
 },
-"Millo_10.png":
+"PIEZAS_TIENDA/C_UT.png":
 {
-	"frame": {"x":634,"y":606,"w":600,"h":446},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":25,"w":600,"h":446},
-	"sourceSize": {"w":600,"h":496}
-},
-"PIEZAS_TIENDA/C_CLI.png":
-{
-	"frame": {"x":1309,"y":2,"w":486,"h":561},
+	"frame": {"x":1198,"y":826,"w":486,"h":561},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/C_Cora.png":
+"PIEZAS_TIENDA/S_CAM.png":
 {
-	"frame": {"x":1242,"y":1472,"w":486,"h":561},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/C_CPE.png":
-{
-	"frame": {"x":1309,"y":492,"w":486,"h":561},
+	"frame": {"x":598,"y":1009,"w":486,"h":561},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/C_CPE2.png":
-{
-	"frame": {"x":752,"y":1210,"w":486,"h":561},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/C_CPI.png":
-{
-	"frame": {"x":1242,"y":982,"w":486,"h":561},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/GAF_1.png":
-{
-	"frame": {"x":1732,"y":1472,"w":559,"h":303},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":21,"y":149,"w":559,"h":303},
 	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/S_G.png":
 {
-	"frame": {"x":2,"y":1450,"w":594,"h":371},
-	"rotated": true,
+	"frame": {"x":2,"y":306,"w":594,"h":371},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":84,"w":594,"h":371},
 	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/S_W.png":
 {
-	"frame": {"x":377,"y":1450,"w":594,"h":371},
-	"rotated": true,
+	"frame": {"x":600,"y":634,"w":594,"h":371},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":2,"y":84,"w":594,"h":371},
 	"sourceSize": {"w":600,"h":600}
+},
+"Select-ABAJO.png":
+{
+	"frame": {"x":1429,"y":2,"w":613,"h":292},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":7,"w":613,"h":292},
+	"sourceSize": {"w":747,"h":306}
 }},
 "animations": {
 },
@@ -114,6 +154,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b6f343ac306801417df4b95200d939cc:b524286c43a5b1afe20422238a440373:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

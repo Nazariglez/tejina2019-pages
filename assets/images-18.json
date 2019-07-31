@@ -1,6 +1,6 @@
 {"frames": {
 
-"3-PERA/CAM_PICO_V_2.png":
+"3-PERA/CAM_PICO_V_Descuelgue.png":
 {
 	"frame": {"x":2,"y":2,"w":900,"h":654},
 	"rotated": false,
@@ -8,7 +8,7 @@
 	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PERA/CAM_PICO_V_Descuelgue.png":
+"3-PERA/CAM_UT.png":
 {
 	"frame": {"x":906,"y":2,"w":900,"h":654},
 	"rotated": false,
@@ -16,49 +16,41 @@
 	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PERA/CAM_UT.png":
+"PIEZAS_TIENDA/C_BES.png":
 {
-	"frame": {"x":2,"y":660,"w":900,"h":654},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"5-SOMB_PINA/5-especial_pina.png":
-{
-	"frame": {"x":1626,"y":1464,"w":548,"h":400},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":226,"y":180,"w":548,"h":400},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"PIEZAS_TIENDA/M_Gfa.png":
-{
-	"frame": {"x":2,"y":1564,"w":472,"h":570},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/M_Gpi.png":
-{
-	"frame": {"x":576,"y":1564,"w":472,"h":570},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/M_Gro.png":
-{
-	"frame": {"x":1150,"y":1464,"w":472,"h":570},
+	"frame": {"x":532,"y":1464,"w":486,"h":561},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/C_CLI.png":
+{
+	"frame": {"x":1022,"y":1464,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_B3.png":
+{
+	"frame": {"x":2,"y":1564,"w":470,"h":526},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":32,"w":470,"h":526},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/M_L4.png":
+{
+	"frame": {"x":1512,"y":1464,"w":466,"h":534},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":33,"w":466,"h":534},
 	"sourceSize": {"w":600,"h":600}
 },
 "Ranking-name.png":
 {
-	"frame": {"x":660,"y":660,"w":900,"h":344},
+	"frame": {"x":2,"y":660,"w":900,"h":344},
 	"rotated": true,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":344},
@@ -66,7 +58,15 @@
 },
 "REGALO_Camiseta.png":
 {
-	"frame": {"x":1150,"y":660,"w":800,"h":800},
+	"frame": {"x":350,"y":660,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"REGALO_Gafas.png":
+{
+	"frame": {"x":1154,"y":660,"w":800,"h":800},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
@@ -82,6 +82,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b6f343ac306801417df4b95200d939cc:b524286c43a5b1afe20422238a440373:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

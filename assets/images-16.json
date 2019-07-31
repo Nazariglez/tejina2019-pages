@@ -1,5 +1,21 @@
 {"frames": {
 
+"2-CARA-P/2-P_MORRITOS.png":
+{
+	"frame": {"x":1691,"y":1671,"w":352,"h":199},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":448,"y":501,"w":352,"h":199},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-P/2-P_SMILE.png":
+{
+	"frame": {"x":1691,"y":1456,"w":352,"h":211},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":448,"y":500,"w":352,"h":211},
+	"sourceSize": {"w":1200,"h":1660}
+},
 "2-CARA-PL/2-PL_SEXY.png":
 {
 	"frame": {"x":1810,"y":554,"w":440,"h":231},
@@ -56,37 +72,13 @@
 	"spriteSourceSize": {"x":0,"y":0,"w":548,"h":232},
 	"sourceSize": {"w":548,"h":232}
 },
-"GANA_xDINERO.png":
+"ICON_Camisa.png":
 {
-	"frame": {"x":1521,"y":1809,"w":507,"h":226},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":507,"h":226},
-	"sourceSize": {"w":507,"h":226}
-},
-"ICON_Disfraz.png":
-{
-	"frame": {"x":1777,"y":998,"w":300,"h":240},
+	"frame": {"x":1777,"y":998,"w":296,"h":244},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":30,"w":300,"h":240},
+	"spriteSourceSize": {"x":2,"y":28,"w":296,"h":244},
 	"sourceSize": {"w":300,"h":300}
-},
-"PIEZAS_TIENDA/C_PARTY.png":
-{
-	"frame": {"x":1031,"y":1456,"w":486,"h":573},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":44,"y":5,"w":486,"h":573},
-	"sourceSize": {"w":600,"h":600}
-},
-"PIEZAS_TIENDA/R_PI.png":
-{
-	"frame": {"x":1521,"y":1456,"w":525,"h":349},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":27,"y":116,"w":525,"h":349},
-	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/S_GUAJI.png":
 {
@@ -112,6 +104,14 @@
 	"spriteSourceSize": {"x":26,"y":133,"w":548,"h":328},
 	"sourceSize": {"w":600,"h":600}
 },
+"R-x20.png":
+{
+	"frame": {"x":1031,"y":1456,"w":656,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":144,"w":656,"h":573},
+	"sourceSize": {"w":1200,"h":800}
+},
 "Select-ELPICO.png":
 {
 	"frame": {"x":1106,"y":660,"w":675,"h":300},
@@ -120,6 +120,8 @@
 	"spriteSourceSize": {"x":36,"y":3,"w":675,"h":300},
 	"sourceSize": {"w":747,"h":306}
 }},
+"animations": {
+},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
@@ -128,6 +130,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b6f343ac306801417df4b95200d939cc:b524286c43a5b1afe20422238a440373:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

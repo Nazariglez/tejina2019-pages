@@ -67,6 +67,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b6f343ac306801417df4b95200d939cc:b524286c43a5b1afe20422238a440373:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

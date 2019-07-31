@@ -8,17 +8,17 @@
 	"spriteSourceSize": {"x":458,"y":574,"w":674,"h":1026},
 	"sourceSize": {"w":1200,"h":1600}
 },
-"2-CARA-P/2-P_SEXY.png":
+"2-CARA-PL/2-PL_MORRITO.png":
 {
-	"frame": {"x":1823,"y":1107,"w":401,"h":211},
+	"frame": {"x":1824,"y":692,"w":387,"h":218},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":416,"y":496,"w":401,"h":211},
+	"spriteSourceSize": {"x":421,"y":621,"w":387,"h":218},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "2-CARA-PL/2-PL_WOMAN.png":
 {
-	"frame": {"x":1824,"y":692,"w":411,"h":214},
+	"frame": {"x":1823,"y":1083,"w":411,"h":214},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":403,"y":621,"w":411,"h":214},
@@ -115,6 +115,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:b6f343ac306801417df4b95200d939cc:b524286c43a5b1afe20422238a440373:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }
