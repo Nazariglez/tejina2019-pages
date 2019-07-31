@@ -1,103 +1,94 @@
 {"frames": {
 
-"4-MANO-FRONT/4-Laud_1.png":
+"3-PERA/CAM_UT.png":
 {
-	"frame": {"x":2,"y":1610,"w":429,"h":784},
+	"frame": {"x":2,"y":2,"w":900,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-guajiro.png":
+{
+	"frame": {"x":808,"y":776,"w":667,"h":488},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
+	"spriteSourceSize": {"x":134,"y":114,"w":667,"h":488},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Laud_2.png":
+"5-SOMB_PINA/5-somb_g.png":
 {
-	"frame": {"x":618,"y":806,"w":429,"h":784},
+	"frame": {"x":1504,"y":776,"w":533,"h":379},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Laud_3.png":
+"5-SOMB_PINA/5-somb_w.png":
 {
-	"frame": {"x":806,"y":2,"w":429,"h":784},
+	"frame": {"x":1504,"y":1161,"w":533,"h":379},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Laud_4.png":
+"6-GAFAS_PERA/6-gafa-corazon.png":
 {
-	"frame": {"x":1051,"y":790,"w":429,"h":784},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"ICON_Disfraz.png":
-{
-	"frame": {"x":1239,"y":2,"w":300,"h":240},
+	"frame": {"x":1156,"y":1449,"w":592,"h":342},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":30,"w":300,"h":240},
-	"sourceSize": {"w":300,"h":300}
+	"spriteSourceSize": {"x":269,"y":348,"w":592,"h":342},
+	"sourceSize": {"w":1200,"h":1660}
 },
-"Millo_10.png":
+"LOGO_PIQU3.png":
 {
-	"frame": {"x":790,"y":1594,"w":600,"h":446},
+	"frame": {"x":908,"y":2,"w":900,"h":418},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":25,"w":600,"h":446},
-	"sourceSize": {"w":600,"h":496}
-},
-"PIEZAS_TIENDA/C_Cora.png":
-{
-	"frame": {"x":1484,"y":1472,"w":486,"h":561},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
-	"sourceSize": {"w":600,"h":600}
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":418},
+	"sourceSize": {"w":900,"h":419}
 },
 "PIEZAS_TIENDA/C_CPE.png":
 {
-	"frame": {"x":1484,"y":2,"w":486,"h":561},
-	"rotated": true,
+	"frame": {"x":664,"y":1468,"w":486,"h":561},
+	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/C_CPE2.png":
+"PIEZAS_TIENDA/CARA_JUM.png":
 {
-	"frame": {"x":1484,"y":492,"w":486,"h":561},
-	"rotated": true,
+	"frame": {"x":1504,"y":1546,"w":527,"h":297},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"spriteSourceSize": {"x":49,"y":152,"w":527,"h":297},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/C_CPI.png":
+"R-x20.png":
 {
-	"frame": {"x":1484,"y":982,"w":486,"h":561},
-	"rotated": true,
+	"frame": {"x":2,"y":1468,"w":656,"h":573},
+	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
-	"sourceSize": {"w":600,"h":600}
+	"spriteSourceSize": {"x":289,"y":144,"w":656,"h":573},
+	"sourceSize": {"w":1200,"h":800}
 },
-"REGALO_Gorra.png":
+"Ranking-name.png":
 {
-	"frame": {"x":2,"y":2,"w":800,"h":800},
+	"frame": {"x":908,"y":426,"w":900,"h":344},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":344},
+	"sourceSize": {"w":900,"h":344}
+},
+"REGALO_Camiseta.png":
+{
+	"frame": {"x":2,"y":662,"w":800,"h":800},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
 	"sourceSize": {"w":800,"h":800}
-},
-"Select-PINA.png":
-{
-	"frame": {"x":2,"y":806,"w":800,"h":612},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":59,"w":800,"h":612},
-	"sourceSize": {"w":800,"h":800}
 }},
 "animations": {
-	"4-MANO-FRONT/4-Laud": ["4-MANO-FRONT/4-Laud_1.png","4-MANO-FRONT/4-Laud_2.png","4-MANO-FRONT/4-Laud_3.png","4-MANO-FRONT/4-Laud_4.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -107,6 +98,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f1235529ed7be2a1514026571506373f:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

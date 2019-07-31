@@ -1,21 +1,55 @@
 {"frames": {
 
+"4-MANO-FRONT/4-BOTELLA_2.png":
+{
+	"frame": {"x":2,"y":523,"w":301,"h":508},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":210,"y":834,"w":301,"h":508},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"EMPTY.png":
+{
+	"frame": {"x":516,"y":814,"w":298,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":51,"y":51,"w":298,"h":298},
+	"sourceSize": {"w":400,"h":400}
+},
+"PIEZAS_TIENDA/BOT_ORO.png":
+{
+	"frame": {"x":2,"y":2,"w":515,"h":515},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":43,"w":515,"h":515},
+	"sourceSize": {"w":600,"h":600}
+},
+"PLAY.png":
+{
+	"frame": {"x":523,"y":2,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
 "TIENDA.png":
 {
-	"frame": {"x":2,"y":2,"w":400,"h":400},
+	"frame": {"x":523,"y":408,"w":400,"h":400},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
 	"sourceSize": {"w":400,"h":400}
 }},
+"animations": {
+},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
 	"image": "images-23.png",
 	"format": "RGBA8888",
-	"size": {"w":512,"h":512},
+	"size": {"w":1024,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f1235529ed7be2a1514026571506373f:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

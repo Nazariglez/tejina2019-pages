@@ -1,6 +1,14 @@
 {"frames": {
 
-"3-LIMON/CAM_CORAZ.png":
+"2-CARA-PL/2-PL_WOMAN.png":
+{
+	"frame": {"x":671,"y":1633,"w":411,"h":214},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":403,"y":621,"w":411,"h":214},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-LIMON/CAM_ARRIBA_A_1.png":
 {
 	"frame": {"x":2,"y":2,"w":972,"h":647},
 	"rotated": false,
@@ -8,80 +16,72 @@
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
+"3-LIMON/CAM_ARRIBA_A_2.png":
+{
+	"frame": {"x":980,"y":2,"w":972,"h":647},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-LIMON/CAM_BESTIA.png":
+{
+	"frame": {"x":2,"y":655,"w":972,"h":647},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-LIMON/CAM_CORAZ.png":
+{
+	"frame": {"x":655,"y":655,"w":972,"h":647},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
+	"sourceSize": {"w":1200,"h":1660}
+},
 "3-LIMON/CAM_ESPESIAL.png":
 {
-	"frame": {"x":978,"y":2,"w":972,"h":647},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"3-LIMON/CAM_PICO_A_1.png":
-{
-	"frame": {"x":2,"y":653,"w":972,"h":647},
+	"frame": {"x":1308,"y":655,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-LIMON/CAM_PICO_A_1B.png":
+"PIEZAS_TIENDA/CARA_CUTE.png":
 {
-	"frame": {"x":653,"y":653,"w":972,"h":647},
+	"frame": {"x":488,"y":1633,"w":412,"h":177},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":122,"y":212,"w":412,"h":177},
+	"sourceSize": {"w":600,"h":600}
 },
-"3-LIMON/CAM_PICO_A_2.png":
+"PIEZAS_TIENDA/G_LI.png":
 {
-	"frame": {"x":1304,"y":653,"w":972,"h":647},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"5-SOMB_LIMON/5-gorrap.png":
-{
-	"frame": {"x":2,"y":1629,"w":468,"h":416},
+	"frame": {"x":891,"y":1633,"w":562,"h":410},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":189,"w":468,"h":416},
-	"sourceSize": {"w":1200,"h":1660}
+	"spriteSourceSize": {"x":26,"y":85,"w":562,"h":410},
+	"sourceSize": {"w":600,"h":600}
 },
-"6-GAFAS_LIMON/6-gafa-corazon.png":
+"PIEZAS_TIENDA/G_PE.png":
 {
-	"frame": {"x":474,"y":1629,"w":884,"h":415},
+	"frame": {"x":1459,"y":1633,"w":562,"h":410},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":82,"y":447,"w":884,"h":415},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"ICON_moneda.png":
-{
-	"frame": {"x":1846,"y":1833,"w":200,"h":200},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
-	"sourceSize": {"w":200,"h":200}
-},
-"ICON_Ranking.png":
-{
-	"frame": {"x":1846,"y":1629,"w":200,"h":200},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
-	"sourceSize": {"w":200,"h":200}
+	"spriteSourceSize": {"x":25,"y":85,"w":562,"h":410},
+	"sourceSize": {"w":600,"h":600}
 },
 "PIEZAS_TIENDA/M_Pan.png":
 {
-	"frame": {"x":1362,"y":1629,"w":413,"h":480},
+	"frame": {"x":2,"y":1633,"w":413,"h":480},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":104,"y":41,"w":413,"h":480},
 	"sourceSize": {"w":600,"h":600}
 }},
 "animations": {
-	"3-LIMON/CAM_PICO_A": ["3-LIMON/CAM_PICO_A_1.png","3-LIMON/CAM_PICO_A_2.png"]
+	"3-LIMON/CAM_ARRIBA_A": ["3-LIMON/CAM_ARRIBA_A_1.png","3-LIMON/CAM_ARRIBA_A_2.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -91,6 +91,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f1235529ed7be2a1514026571506373f:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }

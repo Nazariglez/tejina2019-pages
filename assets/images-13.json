@@ -1,14 +1,22 @@
 {"frames": {
 
-"3-PINA/CAM_ABAJO_N_1.png":
+"2-CARA-P/2-P_SEXY.png":
 {
-	"frame": {"x":1216,"y":609,"w":949,"h":548},
+	"frame": {"x":1829,"y":611,"w":401,"h":211},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":804,"w":949,"h":548},
+	"spriteSourceSize": {"x":416,"y":496,"w":401,"h":211},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_ESPESIAL.png":
+"2-CARA-P/2-P_SMILE.png":
+{
+	"frame": {"x":1829,"y":1018,"w":352,"h":211},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":448,"y":500,"w":352,"h":211},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_ABAJO_N_2.png":
 {
 	"frame": {"x":2,"y":2,"w":949,"h":603},
 	"rotated": false,
@@ -16,25 +24,33 @@
 	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_PICO_N_2.png":
+"3-PINA/CAM_ARRIBA_N_2.png":
 {
-	"frame": {"x":955,"y":2,"w":949,"h":603},
+	"frame": {"x":957,"y":2,"w":949,"h":603},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_PICO_N_2B.png":
+"3-PINA/CAM_BESTIA.png":
 {
-	"frame": {"x":2,"y":609,"w":949,"h":603},
+	"frame": {"x":2,"y":611,"w":949,"h":603},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_UT.png":
+"3-PINA/CAM_CORAZ.png":
 {
-	"frame": {"x":609,"y":609,"w":949,"h":603},
+	"frame": {"x":611,"y":611,"w":949,"h":603},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_ESPESIAL.png":
+{
+	"frame": {"x":1220,"y":611,"w":949,"h":603},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
@@ -42,39 +58,31 @@
 },
 "4-MANO-FRONT/4-Pandereta.png":
 {
-	"frame": {"x":2,"y":1562,"w":561,"h":479},
+	"frame": {"x":2,"y":1566,"w":561,"h":479},
 	"rotated": false,
 	"trimmed": true,
 	"spriteSourceSize": {"x":210,"y":834,"w":561,"h":479},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_PERA/5-bidr-v.png":
+"5-SOMB_PERA/5-especial_pera.png":
 {
-	"frame": {"x":1768,"y":609,"w":463,"h":277},
+	"frame": {"x":569,"y":1566,"w":475,"h":346},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
+	"spriteSourceSize": {"x":282,"y":51,"w":475,"h":346},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_PERA/5-bise-w.png":
+"5-SOMB_PERA/5-gorra.png":
 {
-	"frame": {"x":1768,"y":1076,"w":463,"h":277},
+	"frame": {"x":921,"y":1566,"w":474,"h":346},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
+	"spriteSourceSize": {"x":282,"y":51,"w":474,"h":346},
 	"sourceSize": {"w":1200,"h":1660}
-},
-"LOGO_PIQU3.png":
-{
-	"frame": {"x":1141,"y":1562,"w":900,"h":418},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":418},
-	"sourceSize": {"w":900,"h":419}
 },
 "PIEZAS_TIENDA/M_Gac.png":
 {
-	"frame": {"x":567,"y":1562,"w":472,"h":570},
+	"frame": {"x":1273,"y":1566,"w":472,"h":570},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
@@ -90,6 +98,6 @@
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
 	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:961cf55bc57116aae119f62e526446c2:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
+	"smartupdate": "$TexturePacker:SmartUpdate:f1235529ed7be2a1514026571506373f:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
 }
 }
