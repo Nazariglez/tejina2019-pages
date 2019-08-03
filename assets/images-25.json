@@ -1,0 +1,125 @@
+{"frames": {
+
+"5-SOMB_LIMON/5-somb_g.png":
+{
+	"frame": {"x":2,"y":2,"w":553,"h":363},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":201,"w":553,"h":363},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-somb_w.png":
+{
+	"frame": {"x":561,"y":2,"w":553,"h":363},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":154,"y":201,"w":553,"h":363},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_w.png":
+{
+	"frame": {"x":1120,"y":2,"w":533,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"ESTILO.png":
+{
+	"frame": {"x":1604,"y":537,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"Mas.png":
+{
+	"frame": {"x":2,"y":1138,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"MENU.png":
+{
+	"frame": {"x":535,"y":835,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"NEXT.png":
+{
+	"frame": {"x":2,"y":1544,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"PIEZAS_TIENDA/C_CREA.png":
+{
+	"frame": {"x":1070,"y":387,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/CAM_BASE-line.png":
+{
+	"frame": {"x":2,"y":371,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/CAM_BASE.png":
+{
+	"frame": {"x":536,"y":371,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/CARA_HAPPY.png":
+{
+	"frame": {"x":1659,"y":2,"w":529,"h":307},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":147,"w":529,"h":307},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/CARA_JUM.png":
+{
+	"frame": {"x":2,"y":835,"w":527,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":152,"w":527,"h":297},
+	"sourceSize": {"w":600,"h":600}
+},
+"PLAY.png":
+{
+	"frame": {"x":941,"y":851,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"TIENDA.png":
+{
+	"frame": {"x":408,"y":1241,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-25.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d967d7ca9d4730c179fa54b4a7c0e468:59d0572cb28e00917eab4e8454fae254:e7d6f87d0e8aeea9ef7c206c51c2392d$"
+}
+}

@@ -1,13 +1,5 @@
 {"frames": {
 
-"0/0_BACK_1.png":
-{
-	"frame": {"x":949,"y":358,"w":885,"h":1090},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":247,"y":570,"w":885,"h":1090},
-	"sourceSize": {"w":1200,"h":1660}
-},
 "1-FRUTA/1-PINA_1.png":
 {
 	"frame": {"x":2,"y":2,"w":941,"h":1253},
@@ -16,17 +8,25 @@
 	"spriteSourceSize": {"x":130,"y":202,"w":941,"h":1253},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"2-CARA-P/2-P_PARTY.png":
+"2-CARA-P/2-P_WOMAN.png":
 {
-	"frame": {"x":1779,"y":1681,"w":257,"h":206},
+	"frame": {"x":1652,"y":1775,"w":374,"h":195},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":501,"y":505,"w":257,"h":206},
+	"spriteSourceSize": {"x":432,"y":501,"w":374,"h":195},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"2-CARA-PL/2-PL_MORRITO.png":
+{
+	"frame": {"x":1652,"y":1551,"w":387,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":421,"y":621,"w":387,"h":218},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "4-MANO-FRONT/4-Guit_Acustica.png":
 {
-	"frame": {"x":1217,"y":1249,"w":426,"h":819},
+	"frame": {"x":1217,"y":358,"w":426,"h":819},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":183,"y":765,"w":426,"h":819},
@@ -40,6 +40,46 @@
 	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
 	"sourceSize": {"w":1200,"h":1660}
 },
+"4-MANO-FRONT/4-Laud_2.png":
+{
+	"frame": {"x":1217,"y":1259,"w":429,"h":784},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PERA/5-bidr-v.png":
+{
+	"frame": {"x":1216,"y":790,"w":463,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PERA/5-bise-w.png":
+{
+	"frame": {"x":1499,"y":790,"w":463,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"6-GAFAS_LIMON/6-gafa-SP_3.png":
+{
+	"frame": {"x":949,"y":358,"w":897,"h":261},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":562,"w":897,"h":261},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"6-GAFAS_PINA/6-gafa-SP_3.png":
+{
+	"frame": {"x":1782,"y":790,"w":755,"h":261},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":562,"w":755,"h":261},
+	"sourceSize": {"w":1200,"h":1660}
+},
 "P-enserio.png":
 {
 	"frame": {"x":949,"y":2,"w":1096,"h":350},
@@ -47,14 +87,6 @@
 	"trimmed": true,
 	"spriteSourceSize": {"x":52,"y":0,"w":1096,"h":350},
 	"sourceSize": {"w":1200,"h":350}
-},
-"PIEZAS_TIENDA/C_AsLI.png":
-{
-	"frame": {"x":1217,"y":1681,"w":363,"h":556},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":140,"y":22,"w":363,"h":556},
-	"sourceSize": {"w":600,"h":600}
 },
 "Select-PERA.png":
 {
@@ -65,6 +97,7 @@
 	"sourceSize": {"w":800,"h":800}
 }},
 "animations": {
+	"4-MANO-FRONT/4-Laud": ["4-MANO-FRONT/4-Laud_1.png","4-MANO-FRONT/4-Laud_2.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -73,7 +106,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:f1235529ed7be2a1514026571506373f:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d967d7ca9d4730c179fa54b4a7c0e468:59d0572cb28e00917eab4e8454fae254:e7d6f87d0e8aeea9ef7c206c51c2392d$"
 }
 }

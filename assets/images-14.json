@@ -1,48 +1,48 @@
 {"frames": {
 
-"3-PINA/CAM_ABAJO_N_Descuelgue.png":
+"3-LIMON/CAM_ARRIBA_A_Descuelgue.png":
 {
-	"frame": {"x":611,"y":611,"w":949,"h":548},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":804,"w":949,"h":548},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"3-PINA/CAM_ARRIBA_N_1.png":
-{
-	"frame": {"x":1165,"y":611,"w":949,"h":548},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":804,"w":949,"h":548},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"3-PINA/CAM_PICO_N_2.png":
-{
-	"frame": {"x":2,"y":2,"w":949,"h":603},
+	"frame": {"x":2,"y":2,"w":972,"h":614},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"spriteSourceSize": {"x":88,"y":769,"w":972,"h":614},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_PICO_N_2B.png":
+"3-LIMON/CAM_PICO_A_Descuelgue.png":
 {
-	"frame": {"x":957,"y":2,"w":949,"h":603},
+	"frame": {"x":980,"y":2,"w":972,"h":614},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"spriteSourceSize": {"x":88,"y":769,"w":972,"h":614},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_UT.png":
+"3-PINA/CAM_ABAJO_N_2.png":
 {
-	"frame": {"x":2,"y":611,"w":949,"h":603},
+	"frame": {"x":1234,"y":622,"w":949,"h":603},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_Boton_1.png":
+{
+	"frame": {"x":2,"y":622,"w":953,"h":610},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":742,"w":953,"h":610},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PINA/CAM_SEB.png":
+{
+	"frame": {"x":618,"y":622,"w":953,"h":610},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":742,"w":953,"h":610},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "5-SOMB_PERA/5-somb_b.png":
 {
-	"frame": {"x":1719,"y":611,"w":462,"h":327},
+	"frame": {"x":2,"y":1581,"w":462,"h":327},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":247,"y":85,"w":462,"h":327},
@@ -50,34 +50,42 @@
 },
 "5-SOMB_PERA/5-somb_br.png":
 {
-	"frame": {"x":1719,"y":1079,"w":462,"h":327},
+	"frame": {"x":335,"y":1581,"w":462,"h":327},
 	"rotated": true,
 	"trimmed": true,
 	"spriteSourceSize": {"x":247,"y":85,"w":462,"h":327},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"6-GAFAS_LIMON/6-gafa-corazon.png":
+"5-SOMB_PERA/5-somb_g.png":
 {
-	"frame": {"x":1154,"y":1566,"w":884,"h":415},
-	"rotated": false,
+	"frame": {"x":668,"y":1581,"w":462,"h":327},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":82,"y":447,"w":884,"h":415},
+	"spriteSourceSize": {"x":247,"y":85,"w":462,"h":327},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"PIEZAS_TIENDA/M_Gfa.png":
+"5-SOMB_PERA/5-somb_w.png":
 {
-	"frame": {"x":2,"y":1566,"w":472,"h":570},
+	"frame": {"x":1001,"y":1581,"w":462,"h":327},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"spriteSourceSize": {"x":247,"y":85,"w":462,"h":327},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"PIEZAS_TIENDA/GAFA_SP_3.png":
+{
+	"frame": {"x":1843,"y":622,"w":552,"h":192},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":204,"w":552,"h":192},
 	"sourceSize": {"w":600,"h":600}
 },
-"PIEZAS_TIENDA/M_Gpi.png":
+"PIEZAS_TIENDA/M_B1.png":
 {
-	"frame": {"x":578,"y":1566,"w":472,"h":570},
+	"frame": {"x":1334,"y":1577,"w":469,"h":527},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":64,"y":15,"w":472,"h":570},
+	"spriteSourceSize": {"x":66,"y":37,"w":469,"h":527},
 	"sourceSize": {"w":600,"h":600}
 }},
 "animations": {
@@ -89,7 +97,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:f1235529ed7be2a1514026571506373f:27d3766efadaf4aee1b591b7e6ab8422:3eedcc189dbbdeff3305d6c6386e017e$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:d967d7ca9d4730c179fa54b4a7c0e468:59d0572cb28e00917eab4e8454fae254:e7d6f87d0e8aeea9ef7c206c51c2392d$"
 }
 }
