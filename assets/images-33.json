@@ -1,0 +1,119 @@
+{"frames": {
+
+"5-SOMB_LIMON/5-PROMO_Cohiba.png":
+{
+	"frame": {"x":780,"y":1614,"w":549,"h":399},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":198,"y":129,"w":549,"h":399},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_LIMON/5-somb_UNICO_dor.png":
+{
+	"frame": {"x":1705,"y":1135,"w":297,"h":327},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":550,"y":264,"w":297,"h":327},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-PROMO_Caprese.png":
+{
+	"frame": {"x":1300,"y":581,"w":549,"h":399},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":227,"y":179,"w":549,"h":399},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-somb_w.png":
+{
+	"frame": {"x":1335,"y":1667,"w":533,"h":379},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":186,"y":219,"w":533,"h":379},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"6-GAFAS_PINA/6-gafa-corazon.png":
+{
+	"frame": {"x":2,"y":1614,"w":772,"h":415},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":447,"w":772,"h":415},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"PIEZAS_TIENDA/C_UT.png":
+{
+	"frame": {"x":808,"y":2,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/PROMO_C_Lomar.png":
+{
+	"frame": {"x":808,"y":1136,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/R_PI.png":
+{
+	"frame": {"x":1342,"y":1136,"w":525,"h":349},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":27,"y":116,"w":525,"h":349},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/S_CAM.png":
+{
+	"frame": {"x":808,"y":569,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/VI_PI.png":
+{
+	"frame": {"x":1705,"y":581,"w":548,"h":328},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":133,"w":548,"h":328},
+	"sourceSize": {"w":600,"h":600}
+},
+"R-x20.png":
+{
+	"frame": {"x":1335,"y":2,"w":656,"h":573},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":289,"y":144,"w":656,"h":573},
+	"sourceSize": {"w":1200,"h":800}
+},
+"REGALO_FONDO.png":
+{
+	"frame": {"x":2,"y":2,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+},
+"REGALO_Gafas.png":
+{
+	"frame": {"x":2,"y":808,"w":800,"h":800},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":800},
+	"sourceSize": {"w":800,"h":800}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-33.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json", "images-26.json", "images-27.json", "images-28.json", "images-29.json", "images-30.json", "images-31.json", "images-32.json", "images-34.json", "images-35.json", "images-36.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:db183f9c8329c9f471ecacc435bbac66:428c61188975624da7e4dcfdd503d864:af0af6d4542f0e8402ece210e65003be$"
+}
+}

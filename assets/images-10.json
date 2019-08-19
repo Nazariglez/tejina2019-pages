@@ -8,36 +8,12 @@
 	"spriteSourceSize": {"x":458,"y":574,"w":674,"h":1026},
 	"sourceSize": {"w":1200,"h":1600}
 },
-"2-CARA-P/2-P_MORRITOS.png":
+"3-PERA/CAM_SEB.png":
 {
-	"frame": {"x":848,"y":1021,"w":352,"h":199},
+	"frame": {"x":848,"y":988,"w":900,"h":664},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":448,"y":501,"w":352,"h":199},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"3-LIMON/CAM_Boton_1.png":
-{
-	"frame": {"x":1055,"y":848,"w":978,"h":649},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":82,"y":734,"w":978,"h":649},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"5-SOMB_PINA/5-bise-o.png":
-{
-	"frame": {"x":848,"y":1503,"w":535,"h":320},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":239,"y":256,"w":535,"h":320},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"5-SOMB_PINA/5-bise_w.png":
-{
-	"frame": {"x":1174,"y":1503,"w":535,"h":320},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":239,"y":256,"w":535,"h":320},
+	"spriteSourceSize": {"x":142,"y":738,"w":900,"h":664},
 	"sourceSize": {"w":1200,"h":1660}
 },
 "MEDALLA_ORO.png":
@@ -50,30 +26,44 @@
 },
 "MEDALLA_PLATA.png":
 {
-	"frame": {"x":1055,"y":2,"w":840,"h":980},
-	"rotated": true,
+	"frame": {"x":682,"y":2,"w":840,"h":980},
+	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":980},
 	"sourceSize": {"w":840,"h":980}
 },
-"PIEZAS_TIENDA/M_L2.png":
+"PIEZAS_TIENDA/BOT_BLA.png":
 {
-	"frame": {"x":1500,"y":1503,"w":466,"h":534},
+	"frame": {"x":1528,"y":2,"w":515,"h":515},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":67,"y":33,"w":466,"h":534},
+	"spriteSourceSize": {"x":43,"y":43,"w":515,"h":515},
 	"sourceSize": {"w":600,"h":600}
 },
-"R-sombra.png":
+"PIEZAS_TIENDA/BOT_ORO.png":
 {
-	"frame": {"x":682,"y":2,"w":1013,"h":367},
+	"frame": {"x":1528,"y":523,"w":515,"h":515},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":43,"w":515,"h":515},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/CAM_ACT.png":
+{
+	"frame": {"x":1518,"y":1044,"w":458,"h":528},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":93,"y":419,"w":1013,"h":367},
-	"sourceSize": {"w":1200,"h":800}
-}},
-"animations": {
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
 },
+"PIEZAS_TIENDA/CAM_BASE-line.png":
+{
+	"frame": {"x":1518,"y":1508,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+}},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
@@ -81,7 +71,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:d967d7ca9d4730c179fa54b4a7c0e468:59d0572cb28e00917eab4e8454fae254:e7d6f87d0e8aeea9ef7c206c51c2392d$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json", "images-26.json", "images-27.json", "images-28.json", "images-29.json", "images-30.json", "images-31.json", "images-32.json", "images-33.json", "images-34.json", "images-35.json", "images-36.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:db183f9c8329c9f471ecacc435bbac66:428c61188975624da7e4dcfdd503d864:af0af6d4542f0e8402ece210e65003be$"
 }
 }

@@ -1,103 +1,71 @@
 {"frames": {
 
-"1-FRUTA/1-PINA_1.png":
+"3-LIMON/PROM_CAM_Barras.png":
 {
-	"frame": {"x":2,"y":2,"w":941,"h":1253},
+	"frame": {"x":308,"y":1336,"w":985,"h":647},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":202,"w":941,"h":1253},
+	"spriteSourceSize": {"x":88,"y":736,"w":985,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"2-CARA-P/2-P_WOMAN.png":
+"4-MANO-FRONT/4-Timple_1.png":
 {
-	"frame": {"x":1652,"y":1775,"w":374,"h":195},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":432,"y":501,"w":374,"h":195},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"2-CARA-PL/2-PL_MORRITO.png":
-{
-	"frame": {"x":1652,"y":1551,"w":387,"h":218},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":421,"y":621,"w":387,"h":218},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"4-MANO-FRONT/4-Guit_Acustica.png":
-{
-	"frame": {"x":1217,"y":358,"w":426,"h":819},
+	"frame": {"x":1319,"y":2,"w":376,"h":727},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":183,"y":765,"w":426,"h":819},
+	"spriteSourceSize": {"x":210,"y":756,"w":376,"h":727},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Laud_1.png":
+"4-MANO-FRONT/4-Timple_2.png":
 {
-	"frame": {"x":782,"y":1261,"w":429,"h":784},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"4-MANO-FRONT/4-Laud_2.png":
-{
-	"frame": {"x":1217,"y":1259,"w":429,"h":784},
-	"rotated": false,
-	"trimmed": true,
-	"spriteSourceSize": {"x":187,"y":766,"w":429,"h":784},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"5-SOMB_PERA/5-bidr-v.png":
-{
-	"frame": {"x":1216,"y":790,"w":463,"h":277},
+	"frame": {"x":1319,"y":384,"w":376,"h":718},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
+	"spriteSourceSize": {"x":210,"y":765,"w":376,"h":718},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_PERA/5-bise-w.png":
+"4-MANO-FRONT/4-Timple_3.png":
 {
-	"frame": {"x":1499,"y":790,"w":463,"h":277},
+	"frame": {"x":1319,"y":766,"w":376,"h":718},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
+	"spriteSourceSize": {"x":210,"y":765,"w":376,"h":718},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"6-GAFAS_LIMON/6-gafa-SP_3.png":
+"6-GAFAS_LIMON/6-gafa-corazon.png":
 {
-	"frame": {"x":949,"y":358,"w":897,"h":261},
+	"frame": {"x":1319,"y":1148,"w":884,"h":415},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":74,"y":562,"w":897,"h":261},
+	"spriteSourceSize": {"x":82,"y":447,"w":884,"h":415},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"6-GAFAS_PINA/6-gafa-SP_3.png":
+"M-PIQU3_1b.png":
 {
-	"frame": {"x":1782,"y":790,"w":755,"h":261},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":139,"y":562,"w":755,"h":261},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"P-enserio.png":
-{
-	"frame": {"x":949,"y":2,"w":1096,"h":350},
+	"frame": {"x":2,"y":2,"w":1311,"h":1328},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":52,"y":0,"w":1096,"h":350},
-	"sourceSize": {"w":1200,"h":350}
+	"spriteSourceSize": {"x":507,"y":118,"w":1311,"h":1328},
+	"sourceSize": {"w":2044,"h":1637}
 },
-"Select-PERA.png":
+"Select-ARRIBA.png":
 {
-	"frame": {"x":2,"y":1261,"w":774,"h":784},
-	"rotated": false,
+	"frame": {"x":1740,"y":1148,"w":747,"h":306},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":747,"h":306},
+	"sourceSize": {"w":747,"h":306}
+},
+"Select-ELPICO.png":
+{
+	"frame": {"x":2,"y":1336,"w":675,"h":300},
+	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":5,"y":8,"w":774,"h":784},
-	"sourceSize": {"w":800,"h":800}
+	"spriteSourceSize": {"x":36,"y":3,"w":675,"h":300},
+	"sourceSize": {"w":747,"h":306}
 }},
 "animations": {
-	"4-MANO-FRONT/4-Laud": ["4-MANO-FRONT/4-Laud_1.png","4-MANO-FRONT/4-Laud_2.png"]
+	"4-MANO-FRONT/4-Timple": ["4-MANO-FRONT/4-Timple_1.png","4-MANO-FRONT/4-Timple_2.png","4-MANO-FRONT/4-Timple_3.png"]
 },
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
@@ -106,7 +74,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:d967d7ca9d4730c179fa54b4a7c0e468:59d0572cb28e00917eab4e8454fae254:e7d6f87d0e8aeea9ef7c206c51c2392d$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json", "images-26.json", "images-27.json", "images-28.json", "images-29.json", "images-30.json", "images-31.json", "images-32.json", "images-33.json", "images-34.json", "images-35.json", "images-36.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:db183f9c8329c9f471ecacc435bbac66:428c61188975624da7e4dcfdd503d864:af0af6d4542f0e8402ece210e65003be$"
 }
 }

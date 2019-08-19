@@ -1,95 +1,77 @@
 {"frames": {
 
-"2-CARA-P/2-P_SMILE.png":
+"3-LIMON/PROM_CAM_Cuevita.png":
 {
-	"frame": {"x":1829,"y":1190,"w":352,"h":211},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":448,"y":500,"w":352,"h":211},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"3-PINA/CAM_ARRIBA_N_2.png":
-{
-	"frame": {"x":2,"y":2,"w":949,"h":603},
+	"frame": {"x":2,"y":2,"w":972,"h":647},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_BASE.png":
+"3-LIMON/PROM_CAM_Ferre.png":
 {
-	"frame": {"x":957,"y":2,"w":949,"h":603},
+	"frame": {"x":980,"y":2,"w":972,"h":647},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_BASE_line.png":
+"3-LIMON/PROM_CAM_Florista.png":
 {
-	"frame": {"x":2,"y":611,"w":949,"h":603},
+	"frame": {"x":2,"y":655,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_BESTIA.png":
+"3-LIMON/PROM_CAM_Juan.png":
 {
-	"frame": {"x":611,"y":611,"w":949,"h":603},
+	"frame": {"x":655,"y":655,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"3-PINA/CAM_CORAZ.png":
+"3-LIMON/PROM_CAM_Lala.png":
 {
-	"frame": {"x":1220,"y":611,"w":949,"h":603},
+	"frame": {"x":1308,"y":655,"w":972,"h":647},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":130,"y":749,"w":949,"h":603},
+	"spriteSourceSize": {"x":88,"y":736,"w":972,"h":647},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"4-MANO-FRONT/4-Pandereta.png":
+"5-SOMB_LIMON/5-gorra.png":
 {
-	"frame": {"x":2,"y":1566,"w":561,"h":479},
+	"frame": {"x":2,"y":1633,"w":548,"h":400},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":210,"y":834,"w":561,"h":479},
+	"spriteSourceSize": {"x":198,"y":129,"w":548,"h":400},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_PERA/5-especial_pera.png":
+"5-SOMB_PERA/5-gorrap.png":
 {
-	"frame": {"x":569,"y":1566,"w":475,"h":346},
+	"frame": {"x":1664,"y":1633,"w":395,"h":374},
 	"rotated": true,
 	"trimmed": true,
-	"spriteSourceSize": {"x":282,"y":51,"w":475,"h":346},
+	"spriteSourceSize": {"x":261,"y":51,"w":395,"h":374},
 	"sourceSize": {"w":1200,"h":1660}
 },
-"5-SOMB_PERA/5-gorra.png":
+"5-SOMB_PINA/5-especial_pina.png":
 {
-	"frame": {"x":921,"y":1566,"w":474,"h":346},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":282,"y":51,"w":474,"h":346},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"6-GAFAS_PERA/6-gafa-SP_3.png":
-{
-	"frame": {"x":1829,"y":611,"w":573,"h":217},
-	"rotated": true,
-	"trimmed": true,
-	"spriteSourceSize": {"x":282,"y":440,"w":573,"h":217},
-	"sourceSize": {"w":1200,"h":1660}
-},
-"6-GAFAS_PINA/6-gafa-corazon.png":
-{
-	"frame": {"x":1273,"y":1566,"w":772,"h":415},
+	"frame": {"x":556,"y":1633,"w":548,"h":400},
 	"rotated": false,
 	"trimmed": true,
-	"spriteSourceSize": {"x":137,"y":447,"w":772,"h":415},
+	"spriteSourceSize": {"x":226,"y":180,"w":548,"h":400},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PINA/5-gorra.png":
+{
+	"frame": {"x":1110,"y":1633,"w":548,"h":400},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":226,"y":180,"w":548,"h":400},
 	"sourceSize": {"w":1200,"h":1660}
 }},
-"animations": {
-},
 "meta": {
 	"app": "https://www.codeandweb.com/texturepacker",
 	"version": "1.0",
@@ -97,7 +79,7 @@
 	"format": "RGBA8888",
 	"size": {"w":2048,"h":2048},
 	"scale": "1",
-	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json" ],
-	"smartupdate": "$TexturePacker:SmartUpdate:d967d7ca9d4730c179fa54b4a7c0e468:59d0572cb28e00917eab4e8454fae254:e7d6f87d0e8aeea9ef7c206c51c2392d$"
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json", "images-26.json", "images-27.json", "images-28.json", "images-29.json", "images-30.json", "images-31.json", "images-32.json", "images-33.json", "images-34.json", "images-35.json", "images-36.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:db183f9c8329c9f471ecacc435bbac66:428c61188975624da7e4dcfdd503d864:af0af6d4542f0e8402ece210e65003be$"
 }
 }

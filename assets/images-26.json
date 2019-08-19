@@ -1,0 +1,128 @@
+{"frames": {
+
+"2-CARA-P/2-P_WOMAN.png":
+{
+	"frame": {"x":1814,"y":804,"w":374,"h":195},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":432,"y":501,"w":374,"h":195},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_ARRIBA_V_1.png":
+{
+	"frame": {"x":2,"y":2,"w":900,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_ARRIBA_V_2.png":
+{
+	"frame": {"x":908,"y":2,"w":900,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_ARRIBA_V_Descuelgue.png":
+{
+	"frame": {"x":2,"y":804,"w":900,"h":654},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/CAM_BASE.png":
+{
+	"frame": {"x":662,"y":804,"w":900,"h":654},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"5-SOMB_PERA/5-bidr-v.png":
+{
+	"frame": {"x":1322,"y":1229,"w":463,"h":277},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":293,"y":99,"w":463,"h":277},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"6-GAFAS_PERA/6-gafa-1-verde.png":
+{
+	"frame": {"x":1814,"y":2,"w":590,"h":204},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":272,"y":439,"w":590,"h":204},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"ICON_moneda.png":
+{
+	"frame": {"x":1814,"y":598,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"Millo_3.png":
+{
+	"frame": {"x":2,"y":1710,"w":522,"h":336},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":80,"w":522,"h":336},
+	"sourceSize": {"w":600,"h":496}
+},
+"NEXT.png":
+{
+	"frame": {"x":1638,"y":1229,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+},
+"PIEZAS_TIENDA/C_CPE.png":
+{
+	"frame": {"x":1322,"y":662,"w":486,"h":561},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":17,"w":486,"h":561},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/VI_LI.png":
+{
+	"frame": {"x":530,"y":1710,"w":548,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":133,"w":548,"h":328},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/VI_PE.png":
+{
+	"frame": {"x":1084,"y":1710,"w":548,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":133,"w":548,"h":328},
+	"sourceSize": {"w":600,"h":600}
+},
+"PLAY.png":
+{
+	"frame": {"x":1638,"y":1635,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+}},
+"animations": {
+	"3-PERA/CAM_ARRIBA_V": ["3-PERA/CAM_ARRIBA_V_1.png","3-PERA/CAM_ARRIBA_V_2.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-26.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json", "images-27.json", "images-28.json", "images-29.json", "images-30.json", "images-31.json", "images-32.json", "images-33.json", "images-34.json", "images-35.json", "images-36.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:db183f9c8329c9f471ecacc435bbac66:428c61188975624da7e4dcfdd503d864:af0af6d4542f0e8402ece210e65003be$"
+}
+}

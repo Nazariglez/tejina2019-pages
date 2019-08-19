@@ -1,0 +1,85 @@
+{"frames": {
+
+"3-PERA/PROM_CAM_Barras.png":
+{
+	"frame": {"x":2,"y":2,"w":900,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/PROM_CAM_Cuevita.png":
+{
+	"frame": {"x":908,"y":2,"w":900,"h":654},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/PROM_CAM_Ferre.png":
+{
+	"frame": {"x":2,"y":662,"w":900,"h":654},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/PROM_CAM_Florista.png":
+{
+	"frame": {"x":662,"y":662,"w":900,"h":654},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"3-PERA/PROM_CAM_Juan.png":
+{
+	"frame": {"x":1322,"y":662,"w":900,"h":654},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":748,"w":900,"h":654},
+	"sourceSize": {"w":1200,"h":1660}
+},
+"PIEZAS_TIENDA/PROMO_C_Arte.png":
+{
+	"frame": {"x":2,"y":1568,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/PROMO_C_Barber.png":
+{
+	"frame": {"x":536,"y":1568,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+},
+"PIEZAS_TIENDA/PROMO_C_Barras.png":
+{
+	"frame": {"x":1070,"y":1568,"w":458,"h":528},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":71,"y":36,"w":458,"h":528},
+	"sourceSize": {"w":600,"h":600}
+},
+"TIENDA.png":
+{
+	"frame": {"x":1604,"y":1568,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":400},
+	"sourceSize": {"w":400,"h":400}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "images-30.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"related_multi_packs": [ "images-0.json", "images-1.json", "images-2.json", "images-3.json", "images-4.json", "images-5.json", "images-6.json", "images-7.json", "images-8.json", "images-9.json", "images-10.json", "images-11.json", "images-12.json", "images-13.json", "images-14.json", "images-15.json", "images-16.json", "images-17.json", "images-18.json", "images-19.json", "images-20.json", "images-21.json", "images-22.json", "images-23.json", "images-24.json", "images-25.json", "images-26.json", "images-27.json", "images-28.json", "images-29.json", "images-31.json", "images-32.json", "images-33.json", "images-34.json", "images-35.json", "images-36.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:db183f9c8329c9f471ecacc435bbac66:428c61188975624da7e4dcfdd503d864:af0af6d4542f0e8402ece210e65003be$"
+}
+}
